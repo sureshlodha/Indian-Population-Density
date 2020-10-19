@@ -1,0 +1,212 @@
+[
+  {
+    "Name": "Jammu & Kashmir",
+    "Population": 12541302,
+    "Area": 222236,
+    "Density": 124
+  },
+  {
+    "Name": "Himachal Pradesh",
+    "Population": 6864602,
+    "Area": 55673,
+    "Density": 123
+  },
+  {
+    "Name": "Punjab",
+    "Population": 27743338,
+    "Area": 50362,
+    "Density": 551
+  },
+  {
+    "Name": "Chandigarh",
+    "Population": 1055450,
+    "Area": 114,
+    "Density": 9258
+  },
+  {
+    "Name": "Uttarakhand",
+    "Population": 10086292,
+    "Area": 53483,
+    "Density": 189
+  },
+  {
+    "Name": "Haryana",
+    "Population": 25351462,
+    "Area": 44212,
+    "Density": 573
+  },
+  {
+    "Name": "NCT of Delhi",
+    "Population": 16787941,
+    "Area": 1483,
+    "Density": 11320
+  },
+  {
+    "Name": "Rajasthan",
+    "Population": 68548437,
+    "Area": 342239,
+    "Density": 200
+  },
+  {
+    "Name": "Uttar Pradesh",
+    "Population": 199812341,
+    "Area": 240928,
+    "Density": 829
+  },
+  {
+    "Name": "Bihar",
+    "Population": 104099452,
+    "Area": 94163,
+    "Density": 1106
+  },
+  {
+    "Name": "Sikkim",
+    "Population": 610577,
+    "Area": 7096,
+    "Density": 86
+  },
+  {
+    "Name": "Arunanchal Pradesh",
+    "Population": 1383727,
+    "Area": 83743,
+    "Density": 17
+  },
+  {
+    "Name": "Nagaland",
+    "Population": 1978502,
+    "Area": 16579,
+    "Density": 119.337837
+  },
+  {
+    "Name": "Manipur",
+    "Population": 2855794,
+    "Area": 22327,
+    "Density": 127.9076455
+  },
+  {
+    "Name": "Mizoram",
+    "Population": 1097206,
+    "Area": 21081,
+    "Density": 52.04715146
+  },
+  {
+    "Name": "Tripura",
+    "Population": 3673917,
+    "Area": 10486,
+    "Density": 350.3640092
+  },
+  {
+    "Name": "Meghalaya",
+    "Population": 2966889,
+    "Area": 22429,
+    "Density": 132.2791475
+  },
+  {
+    "Name": "Assam",
+    "Population": 31205576,
+    "Area": 78438,
+    "Density": 397.8374767
+  },
+  {
+    "Name": "West Bengal",
+    "Population": 91276115,
+    "Area": 88752,
+    "Density": 1028.440091
+  },
+  {
+    "Name": "Jharkhand",
+    "Population": 32988134,
+    "Area": 79716,
+    "Density": 413.8207386
+  },
+  {
+    "Name": "Odisha",
+    "Population": 41974218,
+    "Area": 155707,
+    "Density": 269.5718112
+  },
+  {
+    "Name": "Chhattisgarh",
+    "Population": 25545198,
+    "Area": 135192,
+    "Density": 188.954953
+  },
+  {
+    "Name": "Madhya Pradesh",
+    "Population": 72626809,
+    "Area": 308252,
+    "Density": 235.6085573
+  },
+  {
+    "Name": "Gujarat",
+    "Population": 60439692,
+    "Area": 196244,
+    "Density": 307.9823689
+  },
+  {
+    "Name": "Daman & Diu",
+    "Population": 243247,
+    "Area": 111,
+    "Density": 2191.414414
+  },
+  {
+    "Name": "Dadara & Nagar Havelli",
+    "Population": 343709,
+    "Area": 491,
+    "Density": 700.0183299
+  },
+  {
+    "Name": "Maharashtra",
+    "Population": 112374333,
+    "Area": 307713,
+    "Density": 365.1920231
+  },
+  {
+    "Name": "Andhra Pradesh",
+    "Population": 84580777,
+    "Area": 275045,
+    "Density": 307.516141
+  },
+  {
+    "Name": "Karnataka",
+    "Population": 61095297,
+    "Area": 191791,
+    "Density": 319
+  },
+  {
+    "Name": "Goa",
+    "Population": 1458545,
+    "Area": 3702,
+    "Density": 394
+  },
+  {
+    "Name": "Lakshadweep",
+    "Population": 64473,
+    "Area": 30,
+    "Density": 2149
+  },
+  {
+    "Name": "Kerala",
+    "Population": 33406061,
+    "Area": 38852,
+    "Density": 860
+  },
+  {
+    "Name": "Tamil Nadu",
+    "Population": 72147030,
+    "Area": 130060,
+    "Density": 555
+  },
+  {
+    "Name": "Puducherry",
+    "Population": 1247953,
+    "Area": 490,
+    "Density": 2547
+  },
+  {
+    "Name": "Andaman & Nicobar Island",
+    "Population": 380581,
+    "Area": 8249,
+    "Density": 46
+  }
+]

@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+
+<!--Implemented:
+- Tooltip
+- Blue colored map
+- Legend-->
+<html> 
+  <head>
+    <meta charset="utf-8">
+    <script type= "text/javascript" src="https://d3js.org/d3.v5.min.js"></script> 
+    <script type= "text/javascript" src="https://d3js.org/topojson.v3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+  </head>
+  <style>
+      body {
+          font: 13px sans-serif;
+        }
+      
+      div.tooltip {
+          position: absolute;
+          text-align: center;
+          width: 600px;
+          height: 50px;
+          padding: 2px;
+
+          font: 12px sans-serif;
+          background: beige;
+          pointer-events: all
+
+          border: 0px;
+          pointer-events: none;
+            /*border-radius: 8px;*/
+        }
+        div.tooltip {
+          position: absolute;
+          text-align: center;
+          width: 200px;
+          height: 95px;
+          padding: 2px;
+
+          font: 12px sans-serif;
+          background: white;
+          pointer-events: all
+
+          border: 0px;
+          pointer-events: none;
+           /* border-radius: 8px;*/
+        }
+        table.density_table
+        {
+            border:1px solid black;
+        }
+        .state-border {
+        fill: none;
+        stroke: #000;
+        stroke-opacity: 1;
+        stroke-width: 0.5;
+    }
+
+        .district-border {
+            fill: none;
+            stroke:  #000;
+            stroke-opacity: 1;
+            stroke-width: 0.2;
+        }
+
+        .country-border {
+        fill: none;
+        stroke:  #000;
+        stroke-opacity: 1;
+        stroke-width: 0.5;
+    }
+
+      .axis path,
+.axis line {
+	fill: none;
+	stroke:  #000000;
+	shape-rendering: crispEdges;
+}
+
+.axis text {
+	fill:  #000000;
+	font: Times;
+	font-size: 12px;
+	font-weight: bold;
+}
+      .tick line {
+	stroke: black
+}
+  </style>
+  <body>
+    <h1 style = "text-align:center; color:black; font:25px sans-serif; margin-bottom: 0px"><bold>India Population Density</bold></h1>
+    <h1 style = "text-align:center; color:black; font:18px sans-serif; margin-top: 0px"><bold>2011</bold></h1>
+    <h2 style = "text-align:center; color:black; font:18px sans-serif;margin-bottom: 0px">India has 28 states and 7 union territories which have a total of 640 districts.</h2>
+    
+    <h2 style = "text-align:center; color:black; font:18px sans-serif;margin-bottom: 0px;">
+        <table align=center><tr><th align=left style ="font-weight:normal"> Population &nbsp</th><th align=center style ="font-weight:normal">:</th><th align=right style ="font-weight:normal">1 Billion 211 million approx</th></tr>
+        <tr><th align=left style ="font-weight:normal">Area</th><th align=center style ="font-weight:normal">:</th><th align=right style ="font-weight:normal">&nbsp&nbsp&nbsp3,287,469 km<sup>2</sup> &nbsp(329 million km<sup>2</sup> approx)</th></tr> 
+        <tr><th align=left style ="font-weight:normal">Density</th><th align=center style ="font-weight:normal">:</th><th align=right style ="font-weight:normal">382 /km<sup>2</sup></th></tr></table>
+    </h2>
+      <div id="my_legend"></div>
+      <div id="state-info"></div>
+      <div id="my_map"></div>
+
+      
+    <script type="text/javascript">
+        //Main Source: https://bl.ocks.org/mbostock/5562380
+        var width = 1500, 
+            height = 1000;
+        
+        //create SVG element
+        var svg = d3.select("#my_map").append("svg")
+                    .attr("width", 650)
+                    .attr("height", 700)
+                    .style("border", "0.5px solid black")
+                    .attr("transform", "translate(350, 0)");
+        
+        //makes element for tooltip
+        var div = d3.select("body")
+                    .append("div")
+                    .attr("class", "tooltip")
+                    .style("opacity", 0);
+        var statetooltip = d3.select("#state-info").append("statetooltip").attr("class", "tooltip");
+        
+        //sets color
+        //got the values for the domain by printing these values from invertExtent (lines 99-101)
+        var color = d3.scaleQuantile().domain([1, 100, 200, 250, 350, 450, 600, 800, 1100, 37000]).range(d3.schemeOrRd[9]); 
+        
+        //sets legend
+        
+        var legend = d3.select("#my_legend").append("svg")
+                    .attr("width", 900)
+                    .attr("height", 100)
+                    .attr("transform", "translate(150, 20)");
+        var x = d3.scaleLog()
+                    .clamp(true)
+                    .domain([0.1, 37000])
+                    .range([0, 850])
+                    .base([0]); 
+        var key = legend.append("g")
+                    .attr("class", "key")
+                    .attr("transform", "translate(20,50)")
+                    .style("text-anchor", "start");
+                
+        //set map
+        var topology;
+        var color;
+        
+        Promise.all([
+            d3.json("2011_Dist.json"),
+            d3.json("reduce-state.json")
+        ]).then(_topology => {
+            topology = _topology[0];
+            states = _topology[1];
+            //var scale = 1;
+            var districts = topojson.feature(topology, topology.objects.India_Dist);
+            
+            //creates project with Mercator
+            var projection = d3.geoMercator()
+            .translate([650, 700])
+            .scale(1100)
+            .center([21,5])
+            .rotate([-78.9629, 0]);
+
+            var path = d3.geoPath()
+                  .projection(projection);
+            
+            var zoom = d3.zoom()
+                  .scaleExtent([1, 8])
+                  .on('zoom', function(){
+                      svg.selectAll('path')
+                        .attr('transform', d3.event.transform);
+                  });
+            svg.call(zoom);
+            
+            
+            //display the legend
+            key.selectAll("rect")
+              .data(color.range().map(function(d) {
+                  d = color.invertExtent(d);
+                  if (d[0] == null) d[0] = 1;
+                  if (d[1] == null) d[1] = x.domain()[1];
+                  return d;
+                }))
+              .enter().append("rect")
+                .attr("height", 8)
+                .attr("x", function(d) { return x(d[0]); })
+                .attr("width", function(d) { return x(d[1]) - x(d[0]);})
+                .attr("fill", function(d) { return (color(d[0])); });
+
+            key.append("text")
+                .attr("class", "caption")
+                .attr("x", x.range()[0] + 152.65251550174858)
+                .attr("y", -25)
+                .attr("fill", "#000")
+                .attr("text-anchor", "left")
+                .attr("font-weight", "bold")
+                .text("Population per square kilometer");
+
+            key.call(d3.axisBottom(x)
+                .tickSize(13)
+                .tickValues([1, 100, 200, 250, 350, 450, 600, 800, 1100, 37000])
+                .tickFormat(function (d) {
+			             return d;
+		      }))
+              .select(".domain")
+                .remove();
+            //Creating arrow for map key
+            key.append("svg:image")
+            .attr("xlink:href", "arrow.png")
+            .attr("width", 20)
+            .attr("height", 15)
+            .attr("transform", "rotate(180)")
+            .style("visibility", "hidden")
+            .attr("id", "scaleArrow");
+            
+            
+            svg.append("g")
+                .attr("class", "districts")
+                .attr("clip-path", "url(#clip-land)")
+                .selectAll("path")
+                .data(districts.features)
+                .enter()
+                .append("path")
+                .attr("fill", function(d) {
+                    if (d.properties.Density != null){
+                        if (d.properties.Density > 0){
+                        return color(d.properties.Density);
+                        }
+                    }
+                    else{
+                        return "#DCDCDC";
+                    }
+                })
+                .attr("d", path)
+                .on("mouseover", function (d) {
+                        
+                        div.transition()
+                            .duration(100)
+                            .style("opacity", 0.9);
+                        div.html
+                (
+                     '<table class="density_table" width="100%" height="100%"><tr><th colspan="3" style="text-align:center">' + 
+                          d.properties.DISTRICT +
+                         '</th></tr><tr><td width="45%" style="text-align:left">' +                          
+                         'Population</td><td width="5%">:</td><td style="text-align:right">'  + (d3.format(",.0f")(d.properties.Population))+ '</td></tr>'+
+                '<tr><td style="text-align:left" >'+
+                         'Area</td><td width="5%">:</td><td style="text-align:right">'  + (d3.format(",.0f")(d.properties.Area))+ " km<sup>2</sup>" + '</td></tr>'+
+                        '<tr><td style="text-align:left" >'+
+                        'Density</td><td width="5%">:</td><td style="text-align:right">'  + (d3.format(",.0f")(d.properties.Density))+ '&nbsp/km<sup>2</sup>'+ '</td></tr>'+
+                '</table>' )
+                            .style("left", (d3.event.pageX) + "px")
+                            .style("top", (d3.event.pageY - 28) + "px");
+                
+                     statetooltip.transition()
+                            .duration(100)
+                            .style("opacity", 0.9);
+                
+                    var state_density = 0;
+                    var state_population = 0;
+                    var state_area = 0;
+                    for (i = 0; i < states.length; i++){
+                        if (d.properties.ST_NM == states[i].Name){
+                            state_density = states[i].Density;
+                            state_population = states[i].Population;
+                            state_area = states[i].Area;
+                        }
+                    }
+                   // console.log(states[0].Name);
+                statetooltip.html(
+                    '<table width = 250><tr><th colspan="3" style="text-align:center">' + 
+                          d.properties.ST_NM  +
+                         '</th></tr><tr><td  style="text-align:left">' +                          
+                         'Population</td><td>:</td><td style="text-align:right">'  + (d3.format(",.0f")(state_population))+ '</td></tr>'+
+                '<tr><td style="text-align:left" >'+
+                         'Area</td><td>:</td><td style="text-align:right">'  + (d3.format(",.0f")(state_area))+ " km<sup>2</sup>" + '</td></tr>'+
+                        '<tr><td style="text-align:left" >'+
+                        'Density</td><td >:</td><td style="text-align:right">'  + (d3.format(",.0f")(state_density))+ '&nbsp/km<sup>2</sup>'+ '</td></tr>'+
+                '</table>')
+                        .style("left", "550px")
+                        .style("position", "relative");
+                    if (d.properties.Density != null){
+                        if (d.properties.Density < 1){
+                            return hoverArrow(1);
+                        }
+                        else{
+                            return hoverArrow(d.properties.Density);
+                        }
+                    }
+                    else{
+                        return hoverArrow(1);
+                    }
+                })
+                .on("mouseout", function () {
+                    div.transition()
+                        .duration(100)
+                        .style("opacity", 0);
+                
+                    statetooltip.transition()
+                        .duration(100)
+                        .style("opacity", 0);
+                    hoverArrow(1);
+                });
+            svg.append("path")
+            .datum(topojson.mesh(topology, topology.objects.India_Dist))
+            .attr("class", "district-border")
+            .attr("d", path);
+            
+            svg.append("path")
+            .datum(topojson.mesh(topology, topology.objects.India_Dist, function (a, b) {
+                    return a.properties.ST_NM !== b.properties.ST_NM;
+                }))
+            .attr("class", "state-border")
+            .attr("d", path);
+            
+            svg.append("path")
+            .datum(topojson.mesh(topology, topology.objects.India_Dist, function (a, b) {
+                    return a === b;
+                }))
+            .attr("class", "country-border")
+            .attr("d", path);
+            
+            
+        })
+        .catch(error => {
+            console.error(error);
+        });
+    //Setting the position of the arrow in the map key
+	function hoverArrow(val) {
+		var left = -9 - x(val);
+		d3.select("#scaleArrow")
+        .style("visibility", "visible")
+		.transition()
+		.ease(d3.easeCubicOut)
+		.attr("x", function (d) {
+			return left;
+		});
+	}
+    
+        
+    </script>
+    <h3 style = "text-align:center; font-weight: normal; font:18px">Created by:</h3>
+    <h4 style = "text-align:center; font-weight: normal; font:16px">Saujanya Mulukutla in collaboration with Suresh Lodha</h4>
+      
+  </body>
+    
+</html>

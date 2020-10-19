@@ -1,0 +1,4058 @@
+[
+  {
+    "DISTRICT": "India",
+    "Population": 1210854977,
+    "Area": 3287469,
+    "Density": 382
+  },
+  {
+    "DISTRICT": "Jammu & Kashmir",
+    "Population": 12541302,
+    "Area": 222236,
+    "Density": 124
+  },
+  {
+    "DISTRICT": "Kupwara",
+    "Population": 870354,
+    "Area": 2379,
+    "Density": 366
+  },
+  {
+    "DISTRICT": "Badgam",
+    "Population": 753745,
+    "Area": 1361,
+    "Density": 554
+  },
+  {
+    "DISTRICT": "Leh(Ladakh)",
+    "Population": 133487,
+    "Area": 45110,
+    "Density": 3
+  },
+  {
+    "DISTRICT": "Kargil",
+    "Population": 140802,
+    "Area": 14036,
+    "Density": 10
+  },
+  {
+    "DISTRICT": "Punch",
+    "Population": 476835,
+    "Area": 1674,
+    "Density": 285
+  },
+  {
+    "DISTRICT": "Rajouri",
+    "Population": 642415,
+    "Area": 2630,
+    "Density": 244
+  },
+  {
+    "DISTRICT": "Kathua",
+    "Population": 616435,
+    "Area": 2502,
+    "Density": 246
+  },
+  {
+    "DISTRICT": "Baramula",
+    "Population": 1008039,
+    "Area": 4243,
+    "Density": 238
+  },
+  {
+    "DISTRICT": "Bandipore",
+    "Population": 392232,
+    "Area": 345,
+    "Density": 1137
+  },
+  {
+    "DISTRICT": "Srinagar",
+    "Population": 1236829,
+    "Area": 1979,
+    "Density": 625
+  },
+  {
+    "DISTRICT": "Ganderbal",
+    "Population": 297446,
+    "Area": 259,
+    "Density": 1148
+  },
+  {
+    "DISTRICT": "Pulwama",
+    "Population": 560440,
+    "Area": 1086,
+    "Density": 516
+  },
+  {
+    "DISTRICT": "Shupiyan",
+    "Population": 266215,
+    "Area": 312,
+    "Density": 853
+  },
+  {
+    "DISTRICT": "Anantnag",
+    "Population": 1078692,
+    "Area": 3574,
+    "Density": 302
+  },
+  {
+    "DISTRICT": "Kulgam",
+    "Population": 424483,
+    "Area": 410,
+    "Density": 1035
+  },
+  {
+    "DISTRICT": "Doda",
+    "Population": 409936,
+    "Area": 8912,
+    "Density": 46
+  },
+  {
+    "DISTRICT": "Ramban",
+    "Population": 283713,
+    "Area": 1329,
+    "Density": 213
+  },
+  {
+    "DISTRICT": "Kishtwar",
+    "Population": 230696,
+    "Area": 1644,
+    "Density": 140
+  },
+  {
+    "DISTRICT": "Udhampur",
+    "Population": 554985,
+    "Area": 2637,
+    "Density": 210
+  },
+  {
+    "DISTRICT": "Reasi",
+    "Population": 314667,
+    "Area": 1719,
+    "Density": 183
+  },
+  {
+    "DISTRICT": "Jammu",
+    "Population": 1529958,
+    "Area": 2342,
+    "Density": 653
+  },
+  {
+    "DISTRICT": "Samba",
+    "Population": 318898,
+    "Area": 904,
+    "Density": 353
+  },
+  {
+    "DISTRICT": "Himachal Pradesh",
+    "Population": 6864602,
+    "Area": 55673,
+    "Density": 123
+  },
+  {
+    "DISTRICT": "Chamba",
+    "Population": 519080,
+    "Area": 6522.000225,
+    "Density": 80
+  },
+  {
+    "DISTRICT": "Kangra",
+    "Population": 1510075,
+    "Area": 5739.000081,
+    "Density": 263
+  },
+  {
+    "DISTRICT": "Lahul & Spiti",
+    "Population": 31564,
+    "Area": 13841.00011,
+    "Density": 2
+  },
+  {
+    "DISTRICT": "Kullu",
+    "Population": 437903,
+    "Area": 5503.000197,
+    "Density": 80
+  },
+  {
+    "DISTRICT": "Mandi",
+    "Population": 999777,
+    "Area": 3950.000327,
+    "Density": 253
+  },
+  {
+    "DISTRICT": "Hamirpur",
+    "Population": 454768,
+    "Area": 1117.999908,
+    "Density": 407
+  },
+  {
+    "DISTRICT": "Una",
+    "Population": 521173,
+    "Area": 1539.999905,
+    "Density": 338
+  },
+  {
+    "DISTRICT": "Bilaspur",
+    "Population": 381956,
+    "Area": 1167.000338,
+    "Density": 327
+  },
+  {
+    "DISTRICT": "Solan",
+    "Population": 580320,
+    "Area": 1936.000525,
+    "Density": 300
+  },
+  {
+    "DISTRICT": "Sirmaur",
+    "Population": 529855,
+    "Area": 2825.000159,
+    "Density": 188
+  },
+  {
+    "DISTRICT": "Shimla",
+    "Population": 814010,
+    "Area": 5131.000407,
+    "Density": 159
+  },
+  {
+    "DISTRICT": "Kinnaur",
+    "Population": 84121,
+    "Area": 6400.999862,
+    "Density": 13
+  },
+  {
+    "DISTRICT": "Punjab",
+    "Population": 27743338,
+    "Area": 50362,
+    "Density": 551
+  },
+  {
+    "DISTRICT": "Gurdaspur",
+    "Population": 2298323,
+    "Area": 3550.99992,
+    "Density": 647
+  },
+  {
+    "DISTRICT": "Kapurthala",
+    "Population": 815168,
+    "Area": 1633.002147,
+    "Density": 499
+  },
+  {
+    "DISTRICT": "Jalandhar",
+    "Population": 2193590,
+    "Area": 2624,
+    "Density": 836
+  },
+  {
+    "DISTRICT": "Hoshiarpur",
+    "Population": 1586625,
+    "Area": 3386.001342,
+    "Density": 469
+  },
+  {
+    "DISTRICT": "Shahid Bhagat Singh Nagar",
+    "Population": 612310,
+    "Area": 1282.002937,
+    "Density": 478
+  },
+  {
+    "DISTRICT": "Fatehgarh Sahib",
+    "Population": 600163,
+    "Area": 1180,
+    "Density": 509
+  },
+  {
+    "DISTRICT": "Ludhiana",
+    "Population": 3498739,
+    "Area": 3578,
+    "Density": 978
+  },
+  {
+    "DISTRICT": "Moga",
+    "Population": 995746,
+    "Area": 2242,
+    "Density": 444
+  },
+  {
+    "DISTRICT": "Firozpur",
+    "Population": 2029074,
+    "Area": 5305,
+    "Density": 382
+  },
+  {
+    "DISTRICT": "Muktsar",
+    "Population": 901896,
+    "Area": 2593,
+    "Density": 348
+  },
+  {
+    "DISTRICT": "Faridkot",
+    "Population": 617508,
+    "Area": 1458,
+    "Density": 424
+  },
+  {
+    "DISTRICT": "Bathinda",
+    "Population": 1388525,
+    "Area": 3353,
+    "Density": 414
+  },
+  {
+    "DISTRICT": "Mansa",
+    "Population": 769751,
+    "Area": 2198,
+    "Density": 350
+  },
+  {
+    "DISTRICT": "Patiala",
+    "Population": 1895686,
+    "Area": 3325,
+    "Density": 570
+  },
+  {
+    "DISTRICT": "Amritsar",
+    "Population": 2490656,
+    "Area": 2683,
+    "Density": 928
+  },
+  {
+    "DISTRICT": "Tarn Taran",
+    "Population": 1119627,
+    "Area": 2414,
+    "Density": 464
+  },
+  {
+    "DISTRICT": "Rupnagar",
+    "Population": 684627,
+    "Area": 1356,
+    "Density": 505
+  },
+  {
+    "DISTRICT": "Sahibzada Ajit Singh Nagar",
+    "Population": 994628,
+    "Area": 1094,
+    "Density": 909
+  },
+  {
+    "DISTRICT": "Sangrur",
+    "Population": 1655169,
+    "Area": 3625,
+    "Density": 457
+  },
+  {
+    "DISTRICT": "Barnala",
+    "Population": 595527,
+    "Area": 1482,
+    "Density": 402
+  },
+  {
+    "DISTRICT": "CHANDIGARH",
+    "Population": 1055450,
+    "Area": 114,
+    "Density": 9258
+  },
+  {
+    "DISTRICT": "Chandigarh",
+    "Population": 1055450,
+    "Area": 114,
+    "Density": 9258
+  },
+  {
+    "DISTRICT": "Uttarakhand",
+    "Population": 10086292,
+    "Area": 53483,
+    "Density": 189
+  },
+  {
+    "DISTRICT": "Uttarkashi",
+    "Population": 330086,
+    "Area": 8016,
+    "Density": 41
+  },
+  {
+    "DISTRICT": "Chamoli",
+    "Population": 391605,
+    "Area": 8029.999498,
+    "Density": 49
+  },
+  {
+    "DISTRICT": "Rudraprayag",
+    "Population": 242285,
+    "Area": 1984,
+    "Density": 122
+  },
+  {
+    "DISTRICT": "Tehri Garhwal",
+    "Population": 618931,
+    "Area": 3642,
+    "Density": 170
+  },
+  {
+    "DISTRICT": "Dehradun",
+    "Population": 1696694,
+    "Area": 3088,
+    "Density": 549
+  },
+  {
+    "DISTRICT": "Garhwal",
+    "Population": 687271,
+    "Area": 5329,
+    "Density": 129
+  },
+  {
+    "DISTRICT": "Pithoragarh",
+    "Population": 483439,
+    "Area": 7090,
+    "Density": 68
+  },
+  {
+    "DISTRICT": "Bageshwar",
+    "Population": 259898,
+    "Area": 2241,
+    "Density": 116
+  },
+  {
+    "DISTRICT": "Almora",
+    "Population": 622506,
+    "Area": 3144,
+    "Density": 198
+  },
+  {
+    "DISTRICT": "Champawat",
+    "Population": 259648,
+    "Area": 1766,
+    "Density": 147
+  },
+  {
+    "DISTRICT": "Nainital",
+    "Population": 954605,
+    "Area": 4251,
+    "Density": 225
+  },
+  {
+    "DISTRICT": "Udham Singh Nagar",
+    "Population": 1648902,
+    "Area": 2542,
+    "Density": 649
+  },
+  {
+    "DISTRICT": "Hardwar",
+    "Population": 1890422,
+    "Area": 2360,
+    "Density": 801
+  },
+  {
+    "DISTRICT": "Haryana",
+    "Population": 25351462,
+    "Area": 44212,
+    "Density": 573
+  },
+  {
+    "DISTRICT": "Panchkula",
+    "Population": 561293,
+    "Area": 897.999918,
+    "Density": 625
+  },
+  {
+    "DISTRICT": "Ambala",
+    "Population": 1128350,
+    "Area": 1573.999952,
+    "Density": 717
+  },
+  {
+    "DISTRICT": "Yamunanagar",
+    "Population": 1214205,
+    "Area": 1767.999855,
+    "Density": 687
+  },
+  {
+    "DISTRICT": "Kurukshetra",
+    "Population": 964655,
+    "Area": 1529.999515,
+    "Density": 630
+  },
+  {
+    "DISTRICT": "Kaithal",
+    "Population": 1074304,
+    "Area": 2316.999925,
+    "Density": 464
+  },
+  {
+    "DISTRICT": "Karnal",
+    "Population": 1505324,
+    "Area": 2519.99985,
+    "Density": 597
+  },
+  {
+    "DISTRICT": "Panipat",
+    "Population": 1205437,
+    "Area": 1267.995912,
+    "Density": 951
+  },
+  {
+    "DISTRICT": "Sonipat",
+    "Population": 1450001,
+    "Area": 2122,
+    "Density": 683
+  },
+  {
+    "DISTRICT": "Jind",
+    "Population": 1334152,
+    "Area": 2702.002298,
+    "Density": 494
+  },
+  {
+    "DISTRICT": "Fatehabad",
+    "Population": 942011,
+    "Area": 2538.004712,
+    "Density": 371
+  },
+  {
+    "DISTRICT": "Sirsa",
+    "Population": 1295189,
+    "Area": 4277,
+    "Density": 303
+  },
+  {
+    "DISTRICT": "Hisar",
+    "Population": 1743931,
+    "Area": 3983,
+    "Density": 438
+  },
+  {
+    "DISTRICT": "Bhiwani",
+    "Population": 1634445,
+    "Area": 4778,
+    "Density": 342
+  },
+  {
+    "DISTRICT": "Rohtak",
+    "Population": 1061204,
+    "Area": 1745,
+    "Density": 608
+  },
+  {
+    "DISTRICT": "Jhajjar",
+    "Population": 958405,
+    "Area": 1834,
+    "Density": 523
+  },
+  {
+    "DISTRICT": "Mahendragarh",
+    "Population": 922088,
+    "Area": 1899,
+    "Density": 486
+  },
+  {
+    "DISTRICT": "Rewari",
+    "Population": 900332,
+    "Area": 1594,
+    "Density": 565
+  },
+  {
+    "DISTRICT": "Gurgaon",
+    "Population": 1514432,
+    "Area": 1258,
+    "Density": 1204
+  },
+  {
+    "DISTRICT": "Mewat",
+    "Population": 1089263,
+    "Area": 1507,
+    "Density": 723
+  },
+  {
+    "DISTRICT": "Faridabad",
+    "Population": 1809733,
+    "Area": 741,
+    "Density": 2442
+  },
+  {
+    "DISTRICT": "Palwal",
+    "Population": 1042708,
+    "Area": 1359,
+    "Density": 767
+  },
+  {
+    "DISTRICT": "NCT of Dehli",
+    "Population": 16787941,
+    "Area": 1483,
+    "Density": 11320
+  },
+  {
+    "DISTRICT": "North West",
+    "Population": 3656539,
+    "Area": 443,
+    "Density": 8254
+  },
+  {
+    "DISTRICT": "North",
+    "Population": 887978,
+    "Area": 61,
+    "Density": 14557
+  },
+  {
+    "DISTRICT": "North East",
+    "Population": 2241624,
+    "Area": 62,
+    "Density": 36155
+  },
+  {
+    "DISTRICT": "East",
+    "Population": 1709346,
+    "Area": 63,
+    "Density": 27132
+  },
+  {
+    "DISTRICT": "New Delhi",
+    "Population": 142004,
+    "Area": 35,
+    "Density": 4057
+  },
+  {
+    "DISTRICT": "Central",
+    "Population": 582320,
+    "Area": 21,
+    "Density": 27730
+  },
+  {
+    "DISTRICT": "West",
+    "Population": 2543243,
+    "Area": 130,
+    "Density": 19563
+  },
+  {
+    "DISTRICT": "South West",
+    "Population": 2292958,
+    "Area": 421,
+    "Density": 5446
+  },
+  {
+    "DISTRICT": "South",
+    "Population": 2731929,
+    "Area": 247,
+    "Density": 11060
+  },
+  {
+    "DISTRICT": "Rajasthan",
+    "Population": 68548437,
+    "Area": 342239,
+    "Density": 200
+  },
+  {
+    "DISTRICT": "Ganganagar",
+    "Population": 1969168,
+    "Area": 10978,
+    "Density": 179
+  },
+  {
+    "DISTRICT": "Hanumangarh",
+    "Population": 1774692,
+    "Area": 9656,
+    "Density": 184
+  },
+  {
+    "DISTRICT": "Bikaner",
+    "Population": 2363937,
+    "Area": 30239,
+    "Density": 78
+  },
+  {
+    "DISTRICT": "Churu",
+    "Population": 2039547,
+    "Area": 13835,
+    "Density": 147
+  },
+  {
+    "DISTRICT": "Jhunjhunun",
+    "Population": 2137045,
+    "Area": 5928,
+    "Density": 361
+  },
+  {
+    "DISTRICT": "Alwar",
+    "Population": 3674179,
+    "Area": 8380,
+    "Density": 438
+  },
+  {
+    "DISTRICT": "Bharatpur",
+    "Population": 2548462,
+    "Area": 5066,
+    "Density": 503
+  },
+  {
+    "DISTRICT": "Dhaulpur",
+    "Population": 1206516,
+    "Area": 3033,
+    "Density": 398
+  },
+  {
+    "DISTRICT": "Karauli",
+    "Population": 1458248,
+    "Area": 5524,
+    "Density": 264
+  },
+  {
+    "DISTRICT": "Sawai Madhopur",
+    "Population": 1335551,
+    "Area": 4498,
+    "Density": 297
+  },
+  {
+    "DISTRICT": "Dausa",
+    "Population": 1634409,
+    "Area": 3432,
+    "Density": 476
+  },
+  {
+    "DISTRICT": "Jaipur",
+    "Population": 6626178,
+    "Area": 11143,
+    "Density": 595
+  },
+  {
+    "DISTRICT": "Sikar",
+    "Population": 2677333,
+    "Area": 7732,
+    "Density": 346
+  },
+  {
+    "DISTRICT": "Nagaur",
+    "Population": 3307743,
+    "Area": 17718,
+    "Density": 187
+  },
+  {
+    "DISTRICT": "Jodhpur",
+    "Population": 3687165,
+    "Area": 22850,
+    "Density": 161
+  },
+  {
+    "DISTRICT": "Jaisalmer",
+    "Population": 669919,
+    "Area": 38401,
+    "Density": 17
+  },
+  {
+    "DISTRICT": "Barmer",
+    "Population": 2603751,
+    "Area": 28387,
+    "Density": 92
+  },
+  {
+    "DISTRICT": "Jalor",
+    "Population": 1828730,
+    "Area": 10640,
+    "Density": 172
+  },
+  {
+    "DISTRICT": "Sirohi",
+    "Population": 1036346,
+    "Area": 5136,
+    "Density": 202
+  },
+  {
+    "DISTRICT": "Pali",
+    "Population": 2037573,
+    "Area": 12387,
+    "Density": 164
+  },
+  {
+    "DISTRICT": "Ajmer",
+    "Population": 2583052,
+    "Area": 8481,
+    "Density": 305
+  },
+  {
+    "DISTRICT": "Tonk",
+    "Population": 1421326,
+    "Area": 7194,
+    "Density": 198
+  },
+  {
+    "DISTRICT": "Bundi",
+    "Population": 1110906,
+    "Area": 5776,
+    "Density": 192
+  },
+  {
+    "DISTRICT": "Bhilwara",
+    "Population": 2408523,
+    "Area": 10455,
+    "Density": 230
+  },
+  {
+    "DISTRICT": "Rajsamand",
+    "Population": 1156597,
+    "Area": 4655,
+    "Density": 248
+  },
+  {
+    "DISTRICT": "Dungarpur",
+    "Population": 1388552,
+    "Area": 3770,
+    "Density": 368
+  },
+  {
+    "DISTRICT": "Banswara",
+    "Population": 1797485,
+    "Area": 4522,
+    "Density": 397
+  },
+  {
+    "DISTRICT": "Chittaurgarh",
+    "Population": 1544338,
+    "Area": 7822,
+    "Density": 197
+  },
+  {
+    "DISTRICT": "Kota",
+    "Population": 1951014,
+    "Area": 5217,
+    "Density": 374
+  },
+  {
+    "DISTRICT": "Baran",
+    "Population": 1222755,
+    "Area": 6992,
+    "Density": 175
+  },
+  {
+    "DISTRICT": "Jhalawar",
+    "Population": 1411129,
+    "Area": 6219,
+    "Density": 227
+  },
+  {
+    "DISTRICT": "Udaipur",
+    "Population": 3068420,
+    "Area": 11724,
+    "Density": 262
+  },
+  {
+    "DISTRICT": "Pratapgarh",
+    "Population": 867848,
+    "Area": 4449,
+    "Density": 195
+  },
+  {
+    "DISTRICT": "Uttar Pradesh",
+    "Population": 199812341,
+    "Area": 240928,
+    "Density": 829
+  },
+  {
+    "DISTRICT": "Saharanpur",
+    "Population": 3466382,
+    "Area": 3689,
+    "Density": 940
+  },
+  {
+    "DISTRICT": "Muzaffarnagar",
+    "Population": 4143512,
+    "Area": 4008,
+    "Density": 1034
+  },
+  {
+    "DISTRICT": "Bijnor",
+    "Population": 3682713,
+    "Area": 4561,
+    "Density": 807
+  },
+  {
+    "DISTRICT": "Moradabad",
+    "Population": 4772006,
+    "Area": 3718,
+    "Density": 1283
+  },
+  {
+    "DISTRICT": "Rampur",
+    "Population": 2335819,
+    "Area": 2367,
+    "Density": 987
+  },
+  {
+    "DISTRICT": "Jyotiba Phule Nagar",
+    "Population": 1840221,
+    "Area": 2249,
+    "Density": 818
+  },
+  {
+    "DISTRICT": "Meerut",
+    "Population": 3443689,
+    "Area": 2559,
+    "Density": 1346
+  },
+  {
+    "DISTRICT": "Baghpat",
+    "Population": 1303048,
+    "Area": 1321,
+    "Density": 986
+  },
+  {
+    "DISTRICT": "Ghaziabad",
+    "Population": 4681645,
+    "Area": 1179,
+    "Density": 3971
+  },
+  {
+    "DISTRICT": "Gautam Buddha Nagar",
+    "Population": 1648115,
+    "Area": 1282,
+    "Density": 1286
+  },
+  {
+    "DISTRICT": "Bulandshahr",
+    "Population": 3499171,
+    "Area": 4512,
+    "Density": 776
+  },
+  {
+    "DISTRICT": "Aligarh",
+    "Population": 3673889,
+    "Area": 3650,
+    "Density": 1007
+  },
+  {
+    "DISTRICT": "Mahamaya Nagar",
+    "Population": 1564708,
+    "Area": 1840,
+    "Density": 850
+  },
+  {
+    "DISTRICT": "Mathura",
+    "Population": 2547184,
+    "Area": 3340,
+    "Density": 763
+  },
+  {
+    "DISTRICT": "Agra",
+    "Population": 4418797,
+    "Area": 4041,
+    "Density": 1093
+  },
+  {
+    "DISTRICT": "Firozabad",
+    "Population": 2498156,
+    "Area": 2407,
+    "Density": 1038
+  },
+  {
+    "DISTRICT": "Mainpuri",
+    "Population": 1868529,
+    "Area": 2760,
+    "Density": 677
+  },
+  {
+    "DISTRICT": "Budaun",
+    "Population": 3681896,
+    "Area": 5168,
+    "Density": 712
+  },
+  {
+    "DISTRICT": "Bareilly",
+    "Population": 4448359,
+    "Area": 4120,
+    "Density": 1080
+  },
+  {
+    "DISTRICT": "Pilibhit",
+    "Population": 2031007,
+    "Area": 3686,
+    "Density": 551
+  },
+  {
+    "DISTRICT": "Shahjahanpur",
+    "Population": 3006538,
+    "Area": 4388,
+    "Density": 685
+  },
+  {
+    "DISTRICT": "Kheri",
+    "Population": 4021243,
+    "Area": 7680,
+    "Density": 524
+  },
+  {
+    "DISTRICT": "Sitapur",
+    "Population": 4483992,
+    "Area": 5743,
+    "Density": 781
+  },
+  {
+    "DISTRICT": "Hardoi",
+    "Population": 4092845,
+    "Area": 5986,
+    "Density": 684
+  },
+  {
+    "DISTRICT": "Unnao",
+    "Population": 3108367,
+    "Area": 4558,
+    "Density": 682
+  },
+  {
+    "DISTRICT": "Lucknow",
+    "Population": 4589838,
+    "Area": 2528,
+    "Density": 1816
+  },
+  {
+    "DISTRICT": "Rae Bareli",
+    "Population": 3405559,
+    "Area": 4609,
+    "Density": 739
+  },
+  {
+    "DISTRICT": "Farrukhabad",
+    "Population": 1885204,
+    "Area": 2181,
+    "Density": 864
+  },
+  {
+    "DISTRICT": "Kannauj",
+    "Population": 1656616,
+    "Area": 2093,
+    "Density": 792
+  },
+  {
+    "DISTRICT": "Etawah",
+    "Population": 1581810,
+    "Area": 2311,
+    "Density": 684
+  },
+  {
+    "DISTRICT": "Auraiya",
+    "Population": 1379545,
+    "Area": 2016,
+    "Density": 684
+  },
+  {
+    "DISTRICT": "Kanpur Dehat",
+    "Population": 1796184,
+    "Area": 3021,
+    "Density": 595
+  },
+  {
+    "DISTRICT": "Kanpur Nagar",
+    "Population": 4581268,
+    "Area": 3155,
+    "Density": 1452
+  },
+  {
+    "DISTRICT": "Jalaun",
+    "Population": 1689974,
+    "Area": 4565,
+    "Density": 370
+  },
+  {
+    "DISTRICT": "Jhansi",
+    "Population": 1998603,
+    "Area": 5024,
+    "Density": 398
+  },
+  {
+    "DISTRICT": "Lalitpur",
+    "Population": 1221592,
+    "Area": 5039,
+    "Density": 242
+  },
+  {
+    "DISTRICT": "Hamirpur",
+    "Population": 1104285,
+    "Area": 4021,
+    "Density": 275
+  },
+  {
+    "DISTRICT": "Mahoba",
+    "Population": 875958,
+    "Area": 3144,
+    "Density": 279
+  },
+  {
+    "DISTRICT": "Banda",
+    "Population": 1799410,
+    "Area": 4408,
+    "Density": 408
+  },
+  {
+    "DISTRICT": "Chitrakoot",
+    "Population": 991730,
+    "Area": 3216,
+    "Density": 308
+  },
+  {
+    "DISTRICT": "Fatehpur",
+    "Population": 2632733,
+    "Area": 4152,
+    "Density": 634
+  },
+  {
+    "DISTRICT": "Pratapgarh",
+    "Population": 3209141,
+    "Area": 3717,
+    "Density": 863
+  },
+  {
+    "DISTRICT": "Kaushambi",
+    "Population": 1599596,
+    "Area": 1779,
+    "Density": 899
+  },
+  {
+    "DISTRICT": "Allahabad",
+    "Population": 5954391,
+    "Area": 5482,
+    "Density": 1086
+  },
+  {
+    "DISTRICT": "Bara Banki",
+    "Population": 3260699,
+    "Area": 4402,
+    "Density": 741
+  },
+  {
+    "DISTRICT": "Faizabad",
+    "Population": 2470996,
+    "Area": 2341,
+    "Density": 1056
+  },
+  {
+    "DISTRICT": "Ambedkar Nagar",
+    "Population": 2397888,
+    "Area": 2350,
+    "Density": 1020
+  },
+  {
+    "DISTRICT": "Sultanpur",
+    "Population": 3797117,
+    "Area": 4436,
+    "Density": 856
+  },
+  {
+    "DISTRICT": "Bahraich",
+    "Population": 3487731,
+    "Area": 5237,
+    "Density": 666
+  },
+  {
+    "DISTRICT": "Shrawasti",
+    "Population": 1117361,
+    "Area": 1640,
+    "Density": 681
+  },
+  {
+    "DISTRICT": "Balrampur",
+    "Population": 2148665,
+    "Area": 3349,
+    "Density": 642
+  },
+  {
+    "DISTRICT": "Gonda",
+    "Population": 3433919,
+    "Area": 4003,
+    "Density": 858
+  },
+  {
+    "DISTRICT": "Siddharthnagar",
+    "Population": 2559297,
+    "Area": 2895,
+    "Density": 884
+  },
+  {
+    "DISTRICT": "Basti",
+    "Population": 2464464,
+    "Area": 2688,
+    "Density": 917
+  },
+  {
+    "DISTRICT": "Sant Kabir Nagar",
+    "Population": 1715183,
+    "Area": 1646,
+    "Density": 1042
+  },
+  {
+    "DISTRICT": "Mahrajganj",
+    "Population": 2684703,
+    "Area": 2952,
+    "Density": 909
+  },
+  {
+    "DISTRICT": "Gorakhpur",
+    "Population": 4440895,
+    "Area": 3321,
+    "Density": 1337
+  },
+  {
+    "DISTRICT": "Kushinagar",
+    "Population": 3564544,
+    "Area": 2905,
+    "Density": 1227
+  },
+  {
+    "DISTRICT": "Deoria",
+    "Population": 3100946,
+    "Area": 2540,
+    "Density": 1221
+  },
+  {
+    "DISTRICT": "Azamgarh",
+    "Population": 4613913,
+    "Area": 4054,
+    "Density": 1138
+  },
+  {
+    "DISTRICT": "Mau",
+    "Population": 2205968,
+    "Area": 1713,
+    "Density": 1288
+  },
+  {
+    "DISTRICT": "Ballia",
+    "Population": 3239774,
+    "Area": 2981,
+    "Density": 1087
+  },
+  {
+    "DISTRICT": "Jaunpur",
+    "Population": 4494204,
+    "Area": 4038,
+    "Density": 1113
+  },
+  {
+    "DISTRICT": "Ghazipur",
+    "Population": 3620268,
+    "Area": 3377,
+    "Density": 1072
+  },
+  {
+    "DISTRICT": "Chandauli",
+    "Population": 1952756,
+    "Area": 2541,
+    "Density": 768
+  },
+  {
+    "DISTRICT": "Varanasi",
+    "Population": 3676841,
+    "Area": 1535,
+    "Density": 2395
+  },
+  {
+    "DISTRICT": "Sant Ravidas Nagar (Bhadohi)",
+    "Population": 1578213,
+    "Area": 1015,
+    "Density": 1555
+  },
+  {
+    "DISTRICT": "Mirzapur",
+    "Population": 2496970,
+    "Area": 4405,
+    "Density": 567
+  },
+  {
+    "DISTRICT": "Sonbhadra",
+    "Population": 1862559,
+    "Area": 6905,
+    "Density": 270
+  },
+  {
+    "DISTRICT": "Etah",
+    "Population": 1774480,
+    "Area": 2431,
+    "Density": 730
+  },
+  {
+    "DISTRICT": "Kanshiram Nagar",
+    "Population": 1436719,
+    "Area": 1955,
+    "Density": 735
+  },
+  {
+    "DISTRICT": "Bihar",
+    "Population": 104099452,
+    "Area": 94163,
+    "Density": 1106
+  },
+  {
+    "DISTRICT": "Pashchim Champaran",
+    "Population": 3935042,
+    "Area": 5228,
+    "Density": 753
+  },
+  {
+    "DISTRICT": "Purba Champaran",
+    "Population": 5099371,
+    "Area": 3968,
+    "Density": 1285
+  },
+  {
+    "DISTRICT": "Sheohar",
+    "Population": 656246,
+    "Area": 349,
+    "Density": 1880
+  },
+  {
+    "DISTRICT": "Sitamarhi",
+    "Population": 3423574,
+    "Area": 2294,
+    "Density": 1492
+  },
+  {
+    "DISTRICT": "Madhubani",
+    "Population": 4487379,
+    "Area": 3501,
+    "Density": 1282
+  },
+  {
+    "DISTRICT": "Supaul",
+    "Population": 2229076,
+    "Area": 2425,
+    "Density": 919
+  },
+  {
+    "DISTRICT": "Araria",
+    "Population": 2811569,
+    "Area": 2830,
+    "Density": 993
+  },
+  {
+    "DISTRICT": "Kishanganj",
+    "Population": 1690400,
+    "Area": 1884,
+    "Density": 897
+  },
+  {
+    "DISTRICT": "Purnia",
+    "Population": 3264619,
+    "Area": 3229,
+    "Density": 1011
+  },
+  {
+    "DISTRICT": "Katihar",
+    "Population": 3071029,
+    "Area": 3057,
+    "Density": 1005
+  },
+  {
+    "DISTRICT": "Madhepura",
+    "Population": 2001762,
+    "Area": 1788,
+    "Density": 1120
+  },
+  {
+    "DISTRICT": "Saharsa",
+    "Population": 1900661,
+    "Area": 1687,
+    "Density": 1127
+  },
+  {
+    "DISTRICT": "Darbhanga",
+    "Population": 3937385,
+    "Area": 2279,
+    "Density": 1728
+  },
+  {
+    "DISTRICT": "Muzaffarpur",
+    "Population": 4801062,
+    "Area": 3172,
+    "Density": 1514
+  },
+  {
+    "DISTRICT": "Gopalganj",
+    "Population": 2562012,
+    "Area": 2033,
+    "Density": 1260
+  },
+  {
+    "DISTRICT": "Siwan",
+    "Population": 3330464,
+    "Area": 2219,
+    "Density": 1501
+  },
+  {
+    "DISTRICT": "Saran",
+    "Population": 3951862,
+    "Area": 2641,
+    "Density": 1496
+  },
+  {
+    "DISTRICT": "Vaishali",
+    "Population": 3495021,
+    "Area": 2036,
+    "Density": 1717
+  },
+  {
+    "DISTRICT": "Samastipur",
+    "Population": 4261566,
+    "Area": 2904,
+    "Density": 1467
+  },
+  {
+    "DISTRICT": "Begusarai",
+    "Population": 2970541,
+    "Area": 1918,
+    "Density": 1549
+  },
+  {
+    "DISTRICT": "Khagaria",
+    "Population": 1666886,
+    "Area": 1486,
+    "Density": 1122
+  },
+  {
+    "DISTRICT": "Bhagalpur",
+    "Population": 3037766,
+    "Area": 2569,
+    "Density": 1182
+  },
+  {
+    "DISTRICT": "Banka",
+    "Population": 2034763,
+    "Area": 3020,
+    "Density": 674
+  },
+  {
+    "DISTRICT": "Munger",
+    "Population": 1367765,
+    "Area": 1419,
+    "Density": 964
+  },
+  {
+    "DISTRICT": "Lakhisarai",
+    "Population": 1000912,
+    "Area": 1228,
+    "Density": 815
+  },
+  {
+    "DISTRICT": "Sheikhpura",
+    "Population": 636342,
+    "Area": 689,
+    "Density": 924
+  },
+  {
+    "DISTRICT": "Nalanda",
+    "Population": 2877653,
+    "Area": 2355,
+    "Density": 1222
+  },
+  {
+    "DISTRICT": "Patna",
+    "Population": 5838465,
+    "Area": 3202,
+    "Density": 1823
+  },
+  {
+    "DISTRICT": "Bhojpur",
+    "Population": 2728407,
+    "Area": 2395,
+    "Density": 1139
+  },
+  {
+    "DISTRICT": "Buxar",
+    "Population": 1706352,
+    "Area": 1703,
+    "Density": 1002
+  },
+  {
+    "DISTRICT": "Kaimur (Bhabua)",
+    "Population": 1626384,
+    "Area": 3332,
+    "Density": 488
+  },
+  {
+    "DISTRICT": "Rohtas",
+    "Population": 2959918,
+    "Area": 3881,
+    "Density": 763
+  },
+  {
+    "DISTRICT": "Aurangabad",
+    "Population": 2540073,
+    "Area": 3305,
+    "Density": 769
+  },
+  {
+    "DISTRICT": "Gaya",
+    "Population": 4391418,
+    "Area": 4976,
+    "Density": 883
+  },
+  {
+    "DISTRICT": "Nawada",
+    "Population": 2219146,
+    "Area": 2494,
+    "Density": 890
+  },
+  {
+    "DISTRICT": "Jamui",
+    "Population": 1760405,
+    "Area": 3098,
+    "Density": 568
+  },
+  {
+    "DISTRICT": "Jehanabad",
+    "Population": 1125313,
+    "Area": 931,
+    "Density": 1209
+  },
+  {
+    "DISTRICT": "Arwal",
+    "Population": 700843,
+    "Area": 638,
+    "Density": 1099
+  },
+  {
+    "DISTRICT": "Sikkim",
+    "Population": 610577,
+    "Area": 7096,
+    "Density": 86
+  },
+  {
+    "DISTRICT": "North  District",
+    "Population": 43709,
+    "Area": 4226,
+    "Density": 10
+  },
+  {
+    "DISTRICT": "West District",
+    "Population": 136435,
+    "Area": 1166,
+    "Density": 117
+  },
+  {
+    "DISTRICT": "South District",
+    "Population": 146850,
+    "Area": 750,
+    "Density": 196
+  },
+  {
+    "DISTRICT": "East District",
+    "Population": 283583,
+    "Area": 954,
+    "Density": 297
+  },
+  {
+    "DISTRICT": "Arunachal Pradesh",
+    "Population": 1383727,
+    "Area": 83743,
+    "Density": 17
+  },
+  {
+    "DISTRICT": "Tawang",
+    "Population": 49977,
+    "Area": 2172,
+    "Density": 23.00966851
+  },
+  {
+    "DISTRICT": "West Kameng",
+    "Population": 83947,
+    "Area": 7422,
+    "Density": 11.31056319
+  },
+  {
+    "DISTRICT": "East Kameng",
+    "Population": 78690,
+    "Area": 4134,
+    "Density": 19.03483309
+  },
+  {
+    "DISTRICT": "Papum Pare",
+    "Population": 176573,
+    "Area": 3462,
+    "Density": 51.00317735
+  },
+  {
+    "DISTRICT": "Upper Subansiri",
+    "Population": 83448,
+    "Area": 7032,
+    "Density": 11.8668942
+  },
+  {
+    "DISTRICT": "West Siang",
+    "Population": 112274,
+    "Area": 8325,
+    "Density": 13.48636637
+  },
+  {
+    "DISTRICT": "East Siang",
+    "Population": 99214,
+    "Area": 3603.003769,
+    "Density": 27.53646856
+  },
+  {
+    "DISTRICT": "Upper Siang",
+    "Population": 35320,
+    "Area": 6590,
+    "Density": 5.359635812
+  },
+  {
+    "DISTRICT": "Changlang",
+    "Population": 148226,
+    "Area": 4662,
+    "Density": 31.79450879
+  },
+  {
+    "DISTRICT": "Tirap",
+    "Population": 111975,
+    "Area": 2362,
+    "Density": 47.40685859
+  },
+  {
+    "DISTRICT": "Lower Subansiri",
+    "Population": 83030,
+    "Area": 3508,
+    "Density": 23.66875713
+  },
+  {
+    "DISTRICT": "Kurung Kumey",
+    "Population": 92076,
+    "Area": 6040,
+    "Density": 15.24437086
+  },
+  {
+    "DISTRICT": "Dibang Valley",
+    "Population": 8004,
+    "Area": 9129,
+    "Density": 0.876766349
+  },
+  {
+    "DISTRICT": "Lower Dibang Valley",
+    "Population": 54080,
+    "Area": 3899.998203,
+    "Density": 13.86667306
+  },
+  {
+    "DISTRICT": "Lohit",
+    "Population": 145726,
+    "Area": 5212,
+    "Density": 27.95970837
+  },
+  {
+    "DISTRICT": "Anjaw",
+    "Population": 21167,
+    "Area": 6190,
+    "Density": 3.419547658
+  },
+  {
+    "DISTRICT": "Nagaland",
+    "Population": 1978502,
+    "Area": 16579,
+    "Density": 119.337837
+  },
+  {
+    "DISTRICT": "Mon",
+    "Population": 250260,
+    "Area": 1786,
+    "Density": 140.1231803
+  },
+  {
+    "DISTRICT": "Mokokchung",
+    "Population": 194622,
+    "Area": 1615,
+    "Density": 120.5089783
+  },
+  {
+    "DISTRICT": "Zunheboto",
+    "Population": 140757,
+    "Area": 1255,
+    "Density": 112.1569721
+  },
+  {
+    "DISTRICT": "Wokha",
+    "Population": 166343,
+    "Area": 1628,
+    "Density": 102.1762899
+  },
+  {
+    "DISTRICT": "Dimapur",
+    "Population": 378811,
+    "Area": 927,
+    "Density": 408.6418554
+  },
+  {
+    "DISTRICT": "Phek",
+    "Population": 163418,
+    "Area": 2026,
+    "Density": 80.66041461
+  },
+  {
+    "DISTRICT": "Tuensang",
+    "Population": 196596,
+    "Area": 2536,
+    "Density": 77.52208202
+  },
+  {
+    "DISTRICT": "Longleng",
+    "Population": 50484,
+    "Area": 562,
+    "Density": 89.82918149
+  },
+  {
+    "DISTRICT": "Kiphire",
+    "Population": 74004,
+    "Area": 1130,
+    "Density": 65.49026549
+  },
+  {
+    "DISTRICT": "Kohima",
+    "Population": 267988,
+    "Area": 1463,
+    "Density": 183.1770335
+  },
+  {
+    "DISTRICT": "Peren",
+    "Population": 95219,
+    "Area": 1651,
+    "Density": 57.67353119
+  },
+  {
+    "DISTRICT": "Manipur",
+    "Population": 2855794,
+    "Area": 22327,
+    "Density": 127.9076455
+  },
+  {
+    "DISTRICT": "Senapati",
+    "Population": 479148,
+    "Area": 3271,
+    "Density": 146.4836441
+  },
+  {
+    "DISTRICT": "Tamenglong",
+    "Population": 140651,
+    "Area": 4391,
+    "Density": 32.03165566
+  },
+  {
+    "DISTRICT": "Churachandpur",
+    "Population": 274143,
+    "Area": 4570,
+    "Density": 59.98752735
+  },
+  {
+    "DISTRICT": "Bishnupur",
+    "Population": 237399,
+    "Area": 496,
+    "Density": 478.6270161
+  },
+  {
+    "DISTRICT": "Thoubal",
+    "Population": 422168,
+    "Area": 514,
+    "Density": 821.3385214
+  },
+  {
+    "DISTRICT": "Imphal West",
+    "Population": 517992,
+    "Area": 519,
+    "Density": 998.0578035
+  },
+  {
+    "DISTRICT": "Imphal East",
+    "Population": 456113,
+    "Area": 709,
+    "Density": 643.3187588
+  },
+  {
+    "DISTRICT": "Ukhrul",
+    "Population": 183998,
+    "Area": 4544,
+    "Density": 40.49251761
+  },
+  {
+    "DISTRICT": "Chandel",
+    "Population": 144182,
+    "Area": 3313,
+    "Density": 43.52007244
+  },
+  {
+    "DISTRICT": "Mizoram",
+    "Population": 1097206,
+    "Area": 21081,
+    "Density": 52.04715146
+  },
+  {
+    "DISTRICT": "Mamit",
+    "Population": 86364,
+    "Area": 3025,
+    "Density": 28.55008264
+  },
+  {
+    "DISTRICT": "Kolasib",
+    "Population": 83955,
+    "Area": 1382,
+    "Density": 60.74891462
+  },
+  {
+    "DISTRICT": "Aizawl",
+    "Population": 400309,
+    "Area": 3576,
+    "Density": 111.9432327
+  },
+  {
+    "DISTRICT": "Champhai",
+    "Population": 125745,
+    "Area": 3185,
+    "Density": 39.48037677
+  },
+  {
+    "DISTRICT": "Serchhip",
+    "Population": 64937,
+    "Area": 1421,
+    "Density": 45.69809993
+  },
+  {
+    "DISTRICT": "Lunglei",
+    "Population": 161428,
+    "Area": 4536,
+    "Density": 35.58818342
+  },
+  {
+    "DISTRICT": "Lawngtlai",
+    "Population": 117894,
+    "Area": 2557,
+    "Density": 46.10637466
+  },
+  {
+    "DISTRICT": "Saiha",
+    "Population": 56574,
+    "Area": 1399,
+    "Density": 40.43888492
+  },
+  {
+    "DISTRICT": "Tripura",
+    "Population": 3673917,
+    "Area": 10486,
+    "Density": 350.3640092
+  },
+  {
+    "DISTRICT": "West Tripura",
+    "Population": 1725739,
+    "Area": 2993,
+    "Density": 576.591714
+  },
+  {
+    "DISTRICT": "South Tripura",
+    "Population": 876001,
+    "Area": 3057,
+    "Density": 286.5557736
+  },
+  {
+    "DISTRICT": "Dhalai",
+    "Population": 378230,
+    "Area": 2400,
+    "Density": 157.5958333
+  },
+  {
+    "DISTRICT": "North Tripura",
+    "Population": 693947,
+    "Area": 2036,
+    "Density": 340.8384086
+  },
+  {
+    "DISTRICT": "Meghalaya",
+    "Population": 2966889,
+    "Area": 22429,
+    "Density": 132.2791475
+  },
+  {
+    "DISTRICT": "West Garo Hills",
+    "Population": 643291,
+    "Area": 3677,
+    "Density": 174.9499592
+  },
+  {
+    "DISTRICT": "East Garo Hills",
+    "Population": 317917,
+    "Area": 2603,
+    "Density": 122.1348444
+  },
+  {
+    "DISTRICT": "South Garo Hills",
+    "Population": 142334,
+    "Area": 1887,
+    "Density": 75.42872284
+  },
+  {
+    "DISTRICT": "West Khasi Hills",
+    "Population": 383461,
+    "Area": 5247,
+    "Density": 73.08195159
+  },
+  {
+    "DISTRICT": "Ribhoi",
+    "Population": 258840,
+    "Area": 2448,
+    "Density": 105.7352941
+  },
+  {
+    "DISTRICT": "East Khasi Hills",
+    "Population": 825922,
+    "Area": 2748,
+    "Density": 300.5538574
+  },
+  {
+    "DISTRICT": "Jaintia Hills",
+    "Population": 395124,
+    "Area": 3819,
+    "Density": 103.4626866
+  },
+  {
+    "DISTRICT": "Assam",
+    "Population": 31205576,
+    "Area": 78438,
+    "Density": 397.8374767
+  },
+  {
+    "DISTRICT": "Kokrajhar",
+    "Population": 887142,
+    "Area": 3296,
+    "Density": 269.1571602
+  },
+  {
+    "DISTRICT": "Dhubri",
+    "Population": 1949258,
+    "Area": 2176,
+    "Density": 895.7987132
+  },
+  {
+    "DISTRICT": "Goalpara",
+    "Population": 1008183,
+    "Area": 1824,
+    "Density": 552.7319079
+  },
+  {
+    "DISTRICT": "Barpeta",
+    "Population": 1693622,
+    "Area": 2282,
+    "Density": 742.1656442
+  },
+  {
+    "DISTRICT": "Morigaon",
+    "Population": 957423,
+    "Area": 1551,
+    "Density": 617.2940039
+  },
+  {
+    "DISTRICT": "Nagaon",
+    "Population": 2823768,
+    "Area": 3973,
+    "Density": 710.7394916
+  },
+  {
+    "DISTRICT": "Sonitpur",
+    "Population": 1924110,
+    "Area": 5204,
+    "Density": 369.736741
+  },
+  {
+    "DISTRICT": "Lakhimpur",
+    "Population": 1042137,
+    "Area": 2277,
+    "Density": 457.6798419
+  },
+  {
+    "DISTRICT": "Dhemaji",
+    "Population": 686133,
+    "Area": 3237,
+    "Density": 211.965709
+  },
+  {
+    "DISTRICT": "Tinsukia",
+    "Population": 1327929,
+    "Area": 3790,
+    "Density": 350.3770449
+  },
+  {
+    "DISTRICT": "Dibrugarh",
+    "Population": 1326335,
+    "Area": 3381,
+    "Density": 392.2907424
+  },
+  {
+    "DISTRICT": "Sivasagar",
+    "Population": 1151050,
+    "Area": 2668,
+    "Density": 431.428036
+  },
+  {
+    "DISTRICT": "Jorhat",
+    "Population": 1092256,
+    "Area": 2851,
+    "Density": 383.1132936
+  },
+  {
+    "DISTRICT": "Golaghat",
+    "Population": 1066888,
+    "Area": 3502,
+    "Density": 304.6510565
+  },
+  {
+    "DISTRICT": "Karbi Anglong",
+    "Population": 956313,
+    "Area": 10434,
+    "Density": 91.65353652
+  },
+  {
+    "DISTRICT": "Dima Hasao",
+    "Population": 214102,
+    "Area": 4888,
+    "Density": 43.80155483
+  },
+  {
+    "DISTRICT": "Cachar",
+    "Population": 1736617,
+    "Area": 3786,
+    "Density": 458.6944004
+  },
+  {
+    "DISTRICT": "Karimganj",
+    "Population": 1228686,
+    "Area": 1809,
+    "Density": 679.2072968
+  },
+  {
+    "DISTRICT": "Hailakandi",
+    "Population": 659296,
+    "Area": 1327,
+    "Density": 496.8319518
+  },
+  {
+    "DISTRICT": "Bongaigaon",
+    "Population": 738804,
+    "Area": 1093,
+    "Density": 675.9414456
+  },
+  {
+    "DISTRICT": "Chirang",
+    "Population": 482162,
+    "Area": 1923,
+    "Density": 250.7342694
+  },
+  {
+    "DISTRICT": "Kamrup",
+    "Population": 1517542,
+    "Area": 3105,
+    "Density": 488.7413849
+  },
+  {
+    "DISTRICT": "Kamrup Metropolitan",
+    "Population": 1253938,
+    "Area": 955,
+    "Density": 1313.024084
+  },
+  {
+    "DISTRICT": "Nalbari",
+    "Population": 771639,
+    "Area": 1052,
+    "Density": 733.4971483
+  },
+  {
+    "DISTRICT": "Baksa",
+    "Population": 950075,
+    "Area": 2457,
+    "Density": 386.6809117
+  },
+  {
+    "DISTRICT": "Darrang",
+    "Population": 928500,
+    "Area": 1585,
+    "Density": 585.8044164
+  },
+  {
+    "DISTRICT": "Udalguri",
+    "Population": 831668,
+    "Area": 2012,
+    "Density": 413.3538767
+  },
+  {
+    "DISTRICT": "West Bengal",
+    "Population": 91276115,
+    "Area": 88752,
+    "Density": 1028.440091
+  },
+  {
+    "DISTRICT": "Darjiling",
+    "Population": 1846823,
+    "Area": 3149,
+    "Density": 586.4791997
+  },
+  {
+    "DISTRICT": "Jalpaiguri",
+    "Population": 3872846,
+    "Area": 6227,
+    "Density": 621.9441143
+  },
+  {
+    "DISTRICT": "Koch Bihar",
+    "Population": 2819086,
+    "Area": 3387,
+    "Density": 832.3253617
+  },
+  {
+    "DISTRICT": "Uttar Dinajpur",
+    "Population": 3007134,
+    "Area": 3140,
+    "Density": 957.6859873
+  },
+  {
+    "DISTRICT": "Dakshin Dinajpur",
+    "Population": 1676276,
+    "Area": 2219,
+    "Density": 755.4195584
+  },
+  {
+    "DISTRICT": "Maldah",
+    "Population": 3988845,
+    "Area": 3733,
+    "Density": 1068.53603
+  },
+  {
+    "DISTRICT": "Murshidabad",
+    "Population": 7103807,
+    "Area": 5324,
+    "Density": 1334.298835
+  },
+  {
+    "DISTRICT": "Birbhum",
+    "Population": 3502404,
+    "Area": 4545,
+    "Density": 770.6059406
+  },
+  {
+    "DISTRICT": "Barddhaman",
+    "Population": 7717563,
+    "Area": 7024,
+    "Density": 1098.741885
+  },
+  {
+    "DISTRICT": "Nadia",
+    "Population": 5167600,
+    "Area": 3927,
+    "Density": 1315.915457
+  },
+  {
+    "DISTRICT": "North Twenty Four Parganas",
+    "Population": 10009781,
+    "Area": 4094,
+    "Density": 2444.988031
+  },
+  {
+    "DISTRICT": "Hugli",
+    "Population": 5519145,
+    "Area": 3149,
+    "Density": 1752.665926
+  },
+  {
+    "DISTRICT": "Bankura",
+    "Population": 3596674,
+    "Area": 6882,
+    "Density": 522.6204592
+  },
+  {
+    "DISTRICT": "Puruliya",
+    "Population": 2930115,
+    "Area": 6259,
+    "Density": 468.1442722
+  },
+  {
+    "DISTRICT": "Haora",
+    "Population": 4850029,
+    "Area": 1467,
+    "Density": 3306.086571
+  },
+  {
+    "DISTRICT": "Kolkata",
+    "Population": 4496694,
+    "Area": 185,
+    "Density": 24306.45405
+  },
+  {
+    "DISTRICT": "South Twenty Four Parganas",
+    "Population": 8161961,
+    "Area": 9960,
+    "Density": 819.473996
+  },
+  {
+    "DISTRICT": "Paschim Medinipur",
+    "Population": 5913457,
+    "Area": 9368,
+    "Density": 631.2400726
+  },
+  {
+    "DISTRICT": "Purba Medinipur",
+    "Population": 5095875,
+    "Area": 4712.999764,
+    "Density": 1081.238119
+  },
+  {
+    "DISTRICT": "Jharkhand",
+    "Population": 32988134,
+    "Area": 79716,
+    "Density": 413.8207386
+  },
+  {
+    "DISTRICT": "Garhwa",
+    "Population": 1322784,
+    "Area": 4093,
+    "Density": 323.1820181
+  },
+  {
+    "DISTRICT": "Chatra",
+    "Population": 1042886,
+    "Area": 3718,
+    "Density": 280.4965035
+  },
+  {
+    "DISTRICT": "Kodarma",
+    "Population": 716259,
+    "Area": 2540,
+    "Density": 281.9917323
+  },
+  {
+    "DISTRICT": "Giridih",
+    "Population": 2445474,
+    "Area": 4962,
+    "Density": 492.8403869
+  },
+  {
+    "DISTRICT": "Deoghar",
+    "Population": 1492073,
+    "Area": 2477,
+    "Density": 602.3710133
+  },
+  {
+    "DISTRICT": "Godda",
+    "Population": 1313551,
+    "Area": 2266.004212,
+    "Density": 579.6772102
+  },
+  {
+    "DISTRICT": "Sahibganj",
+    "Population": 1150567,
+    "Area": 2063,
+    "Density": 557.7154629
+  },
+  {
+    "DISTRICT": "Pakur",
+    "Population": 900422,
+    "Area": 1811,
+    "Density": 497.1960243
+  },
+  {
+    "DISTRICT": "Dhanbad",
+    "Population": 2684487,
+    "Area": 2040,
+    "Density": 1315.925
+  },
+  {
+    "DISTRICT": "Bokaro",
+    "Population": 2062330,
+    "Area": 2883,
+    "Density": 715.341658
+  },
+  {
+    "DISTRICT": "Lohardaga",
+    "Population": 461790,
+    "Area": 1502,
+    "Density": 307.4500666
+  },
+  {
+    "DISTRICT": "Purbi Singhbhum",
+    "Population": 2293919,
+    "Area": 3562,
+    "Density": 643.9974733
+  },
+  {
+    "DISTRICT": "Palamu",
+    "Population": 1939869,
+    "Area": 4393,
+    "Density": 441.5818347
+  },
+  {
+    "DISTRICT": "Latehar",
+    "Population": 726978,
+    "Area": 4291,
+    "Density": 169.4192496
+  },
+  {
+    "DISTRICT": "Hazaribagh",
+    "Population": 1734495,
+    "Area": 3555,
+    "Density": 487.9029536
+  },
+  {
+    "DISTRICT": "Ramgarh",
+    "Population": 949443,
+    "Area": 1341.001708,
+    "Density": 708.0102839
+  },
+  {
+    "DISTRICT": "Dumka",
+    "Population": 1321442,
+    "Area": 3761,
+    "Density": 351.3538952
+  },
+  {
+    "DISTRICT": "Jamtara",
+    "Population": 791042,
+    "Area": 1811,
+    "Density": 436.7984539
+  },
+  {
+    "DISTRICT": "Ranchi",
+    "Population": 2914253,
+    "Area": 5097,
+    "Density": 571.7584854
+  },
+  {
+    "DISTRICT": "Khunti",
+    "Population": 531885,
+    "Area": 2535.003205,
+    "Density": 209.8163028
+  },
+  {
+    "DISTRICT": "Gumla",
+    "Population": 1025213,
+    "Area": 5360,
+    "Density": 191.2710821
+  },
+  {
+    "DISTRICT": "Simdega",
+    "Population": 599578,
+    "Area": 3774.000304,
+    "Density": 158.8706814
+  },
+  {
+    "DISTRICT": "Pashchimi Singhbhum",
+    "Population": 1502338,
+    "Area": 7223.996637,
+    "Density": 207.9649362
+  },
+  {
+    "DISTRICT": "Saraikela-Kharsawan",
+    "Population": 1065056,
+    "Area": 2657.003763,
+    "Density": 400.8485101
+  },
+  {
+    "DISTRICT": "Odisha",
+    "Population": 41974218,
+    "Area": 155707,
+    "Density": 269.5718112
+  },
+  {
+    "DISTRICT": "Bargarh",
+    "Population": 1481255,
+    "Area": 5837,
+    "Density": 253.7699161
+  },
+  {
+    "DISTRICT": "Jharsuguda",
+    "Population": 579505,
+    "Area": 2114,
+    "Density": 274.1272469
+  },
+  {
+    "DISTRICT": "Sambalpur",
+    "Population": 1041099,
+    "Area": 6624,
+    "Density": 157.1707428
+  },
+  {
+    "DISTRICT": "Debagarh",
+    "Population": 312520,
+    "Area": 2940,
+    "Density": 106.2993197
+  },
+  {
+    "DISTRICT": "Sundargarh",
+    "Population": 2093437,
+    "Area": 9712,
+    "Density": 215.5515857
+  },
+  {
+    "DISTRICT": "Kendujhar",
+    "Population": 1801733,
+    "Area": 8303,
+    "Density": 216.9978321
+  },
+  {
+    "DISTRICT": "Mayurbhanj",
+    "Population": 2519738,
+    "Area": 10418,
+    "Density": 241.8638894
+  },
+  {
+    "DISTRICT": "Baleshwar",
+    "Population": 2320529,
+    "Area": 3806,
+    "Density": 609.7028376
+  },
+  {
+    "DISTRICT": "Bhadrak",
+    "Population": 1506337,
+    "Area": 2505,
+    "Density": 601.3321357
+  },
+  {
+    "DISTRICT": "Kendrapara",
+    "Population": 1440361,
+    "Area": 2644,
+    "Density": 544.765885
+  },
+  {
+    "DISTRICT": "Jagatsinghapur",
+    "Population": 1136971,
+    "Area": 1668,
+    "Density": 681.6372902
+  },
+  {
+    "DISTRICT": "Cuttack",
+    "Population": 2624470,
+    "Area": 3932,
+    "Density": 667.4643947
+  },
+  {
+    "DISTRICT": "Jajapur",
+    "Population": 1827192,
+    "Area": 2899,
+    "Density": 630.2835461
+  },
+  {
+    "DISTRICT": "Dhenkanal",
+    "Population": 1192811,
+    "Area": 4452,
+    "Density": 267.9269991
+  },
+  {
+    "DISTRICT": "Anugul",
+    "Population": 1273821,
+    "Area": 6375,
+    "Density": 199.8150588
+  },
+  {
+    "DISTRICT": "Nayagarh",
+    "Population": 962789,
+    "Area": 3890,
+    "Density": 247.503599
+  },
+  {
+    "DISTRICT": "Khordha",
+    "Population": 2251673,
+    "Area": 2813,
+    "Density": 800.4525418
+  },
+  {
+    "DISTRICT": "Puri",
+    "Population": 1698730,
+    "Area": 3479,
+    "Density": 488.2811153
+  },
+  {
+    "DISTRICT": "Ganjam",
+    "Population": 3529031,
+    "Area": 8206,
+    "Density": 430.0549598
+  },
+  {
+    "DISTRICT": "Gajapati",
+    "Population": 577817,
+    "Area": 4325,
+    "Density": 133.5993064
+  },
+  {
+    "DISTRICT": "Kandhamal",
+    "Population": 733110,
+    "Area": 8021,
+    "Density": 91.39882808
+  },
+  {
+    "DISTRICT": "Baudh",
+    "Population": 441162,
+    "Area": 3098,
+    "Density": 142.402195
+  },
+  {
+    "DISTRICT": "Subarnapur",
+    "Population": 610183,
+    "Area": 2337,
+    "Density": 261.0967052
+  },
+  {
+    "DISTRICT": "Balangir",
+    "Population": 1648997,
+    "Area": 6575,
+    "Density": 250.7980228
+  },
+  {
+    "DISTRICT": "Nuapada",
+    "Population": 610382,
+    "Area": 3852,
+    "Density": 158.4584631
+  },
+  {
+    "DISTRICT": "Kalahandi",
+    "Population": 1576869,
+    "Area": 7920,
+    "Density": 199.0996212
+  },
+  {
+    "DISTRICT": "Rayagada",
+    "Population": 967911,
+    "Area": 7073,
+    "Density": 136.8458928
+  },
+  {
+    "DISTRICT": "Nabarangapur",
+    "Population": 1220946,
+    "Area": 5291,
+    "Density": 230.7590248
+  },
+  {
+    "DISTRICT": "Koraput",
+    "Population": 1379647,
+    "Area": 8807,
+    "Density": 156.6534575
+  },
+  {
+    "DISTRICT": "Malkangiri",
+    "Population": 613192,
+    "Area": 5791,
+    "Density": 105.8870661
+  },
+  {
+    "DISTRICT": "Chhattisgarh",
+    "Population": 25545198,
+    "Area": 135192,
+    "Density": 188.954953
+  },
+  {
+    "DISTRICT": "Koriya",
+    "Population": 658917,
+    "Area": 6604,
+    "Density": 99.77543913
+  },
+  {
+    "DISTRICT": "Surguja",
+    "Population": 2359886,
+    "Area": 15732,
+    "Density": 150.0054666
+  },
+  {
+    "DISTRICT": "Jashpur",
+    "Population": 851669,
+    "Area": 5838,
+    "Density": 145.883693
+  },
+  {
+    "DISTRICT": "Raigarh",
+    "Population": 1493984,
+    "Area": 7086,
+    "Density": 210.8360147
+  },
+  {
+    "DISTRICT": "Korba",
+    "Population": 1206640,
+    "Area": 6598,
+    "Density": 182.8796605
+  },
+  {
+    "DISTRICT": "Janjgir - Champa",
+    "Population": 1619707,
+    "Area": 3853,
+    "Density": 420.3755515
+  },
+  {
+    "DISTRICT": "Bilaspur",
+    "Population": 2663629,
+    "Area": 8272,
+    "Density": 322.00544
+  },
+  {
+    "DISTRICT": "Kabeerdham",
+    "Population": 822526,
+    "Area": 4235,
+    "Density": 194.2210153
+  },
+  {
+    "DISTRICT": "Rajnandgaon",
+    "Population": 1537133,
+    "Area": 8070,
+    "Density": 190.474969
+  },
+  {
+    "DISTRICT": "Durg",
+    "Population": 3343872,
+    "Area": 8535,
+    "Density": 391.7834798
+  },
+  {
+    "DISTRICT": "Raipur",
+    "Population": 4063872,
+    "Area": 12383,
+    "Density": 328.1815392
+  },
+  {
+    "DISTRICT": "Mahasamund",
+    "Population": 1032754,
+    "Area": 4790,
+    "Density": 215.606263
+  },
+  {
+    "DISTRICT": "Dhamtari",
+    "Population": 799781,
+    "Area": 4084,
+    "Density": 195.832762
+  },
+  {
+    "DISTRICT": "Uttar Bastar Kanker",
+    "Population": 748941,
+    "Area": 7161,
+    "Density": 104.5860913
+  },
+  {
+    "DISTRICT": "Bastar",
+    "Population": 1413199,
+    "Area": 10470,
+    "Density": 134.9760267
+  },
+  {
+    "DISTRICT": "Narayanpur",
+    "Population": 139820,
+    "Area": 4653,
+    "Density": 30.04943047
+  },
+  {
+    "DISTRICT": "Dakshin Bastar Dantewada",
+    "Population": 533638,
+    "Area": 8298,
+    "Density": 64.30923114
+  },
+  {
+    "DISTRICT": "Bijapur",
+    "Population": 255230,
+    "Area": 8530,
+    "Density": 29.92145369
+  },
+  {
+    "DISTRICT": "Madhya Pradesh",
+    "Population": 72626809,
+    "Area": 308252,
+    "Density": 235.6085573
+  },
+  {
+    "DISTRICT": "Sheopur",
+    "Population": 687861,
+    "Area": 6606,
+    "Density": 104.126703
+  },
+  {
+    "DISTRICT": "Morena",
+    "Population": 1965970,
+    "Area": 4989,
+    "Density": 394.0609341
+  },
+  {
+    "DISTRICT": "Bhind",
+    "Population": 1703005,
+    "Area": 4459,
+    "Density": 381.9253196
+  },
+  {
+    "DISTRICT": "Gwalior",
+    "Population": 2032036,
+    "Area": 4560,
+    "Density": 445.6219298
+  },
+  {
+    "DISTRICT": "Datia",
+    "Population": 786754,
+    "Area": 2902,
+    "Density": 271.1075121
+  },
+  {
+    "DISTRICT": "Shivpuri",
+    "Population": 1726050,
+    "Area": 10066,
+    "Density": 171.4732764
+  },
+  {
+    "DISTRICT": "Tikamgarh",
+    "Population": 1445166,
+    "Area": 5048,
+    "Density": 286.2848653
+  },
+  {
+    "DISTRICT": "Chhatarpur",
+    "Population": 1762375,
+    "Area": 8687,
+    "Density": 202.8749856
+  },
+  {
+    "DISTRICT": "Panna",
+    "Population": 1016520,
+    "Area": 7135,
+    "Density": 142.4695165
+  },
+  {
+    "DISTRICT": "Sagar",
+    "Population": 2378458,
+    "Area": 10252,
+    "Density": 231.9994147
+  },
+  {
+    "DISTRICT": "Damoh",
+    "Population": 1264219,
+    "Area": 7306,
+    "Density": 173.0384615
+  },
+  {
+    "DISTRICT": "Satna",
+    "Population": 2228935,
+    "Area": 7502,
+    "Density": 297.1121034
+  },
+  {
+    "DISTRICT": "Rewa",
+    "Population": 2365106,
+    "Area": 6314,
+    "Density": 374.581248
+  },
+  {
+    "DISTRICT": "Umaria",
+    "Population": 644758,
+    "Area": 4076,
+    "Density": 158.1840039
+  },
+  {
+    "DISTRICT": "Neemuch",
+    "Population": 826067,
+    "Area": 4256,
+    "Density": 194.0946898
+  },
+  {
+    "DISTRICT": "Mandsaur",
+    "Population": 1340411,
+    "Area": 5535,
+    "Density": 242.170009
+  },
+  {
+    "DISTRICT": "Ratlam",
+    "Population": 1455069,
+    "Area": 4861,
+    "Density": 299.335322
+  },
+  {
+    "DISTRICT": "Ujjain",
+    "Population": 1986864,
+    "Area": 6091,
+    "Density": 326.1966836
+  },
+  {
+    "DISTRICT": "Shajapur",
+    "Population": 1512681,
+    "Area": 6195,
+    "Density": 244.177724
+  },
+  {
+    "DISTRICT": "Dewas",
+    "Population": 1563715,
+    "Area": 7020,
+    "Density": 222.7514245
+  },
+  {
+    "DISTRICT": "Dhar",
+    "Population": 2185793,
+    "Area": 8153,
+    "Density": 268.0967742
+  },
+  {
+    "DISTRICT": "Indore",
+    "Population": 3276697,
+    "Area": 3898,
+    "Density": 840.6097999
+  },
+  {
+    "DISTRICT": "Khargone (West Nimar)",
+    "Population": 1873046,
+    "Area": 8025,
+    "Density": 233.4013707
+  },
+  {
+    "DISTRICT": "Barwani",
+    "Population": 1385881,
+    "Area": 5427,
+    "Density": 255.3677907
+  },
+  {
+    "DISTRICT": "Rajgarh",
+    "Population": 1545814,
+    "Area": 6153,
+    "Density": 251.229319
+  },
+  {
+    "DISTRICT": "Vidisha",
+    "Population": 1458875,
+    "Area": 7371,
+    "Density": 197.9209063
+  },
+  {
+    "DISTRICT": "Bhopal",
+    "Population": 2371061,
+    "Area": 2772,
+    "Density": 855.3611111
+  },
+  {
+    "DISTRICT": "Sehore",
+    "Population": 1311332,
+    "Area": 6578,
+    "Density": 199.3511706
+  },
+  {
+    "DISTRICT": "Raisen",
+    "Population": 1331597,
+    "Area": 8466,
+    "Density": 157.2876211
+  },
+  {
+    "DISTRICT": "Betul",
+    "Population": 1575362,
+    "Area": 10043,
+    "Density": 156.8616947
+  },
+  {
+    "DISTRICT": "Harda",
+    "Population": 570465,
+    "Area": 3334,
+    "Density": 171.1052789
+  },
+  {
+    "DISTRICT": "Hoshangabad",
+    "Population": 1241350,
+    "Area": 6703,
+    "Density": 185.1931971
+  },
+  {
+    "DISTRICT": "Katni",
+    "Population": 1292042,
+    "Area": 4950,
+    "Density": 261.0185859
+  },
+  {
+    "DISTRICT": "Jabalpur",
+    "Population": 2463289,
+    "Area": 5211,
+    "Density": 472.7094608
+  },
+  {
+    "DISTRICT": "Narsimhapur",
+    "Population": 1091854,
+    "Area": 5133,
+    "Density": 212.7126437
+  },
+  {
+    "DISTRICT": "Dindori",
+    "Population": 704524,
+    "Area": 7470,
+    "Density": 94.31378849
+  },
+  {
+    "DISTRICT": "Mandla",
+    "Population": 1054905,
+    "Area": 5800,
+    "Density": 181.8801724
+  },
+  {
+    "DISTRICT": "Chhindwara",
+    "Population": 2090922,
+    "Area": 11815,
+    "Density": 176.9718155
+  },
+  {
+    "DISTRICT": "Seoni",
+    "Population": 1379131,
+    "Area": 8758,
+    "Density": 157.4709979
+  },
+  {
+    "DISTRICT": "Balaghat",
+    "Population": 1701698,
+    "Area": 9229,
+    "Density": 184.3859573
+  },
+  {
+    "DISTRICT": "Guna",
+    "Population": 1241519,
+    "Area": 6390,
+    "Density": 194.2909233
+  },
+  {
+    "DISTRICT": "Ashoknagar",
+    "Population": 845071,
+    "Area": 4674,
+    "Density": 180.8025246
+  },
+  {
+    "DISTRICT": "Shahdol",
+    "Population": 1066063,
+    "Area": 6205,
+    "Density": 171.8070911
+  },
+  {
+    "DISTRICT": "Anuppur",
+    "Population": 749237,
+    "Area": 3747,
+    "Density": 199.9564985
+  },
+  {
+    "DISTRICT": "Sidhi",
+    "Population": 1127033,
+    "Area": 4851,
+    "Density": 232.330035
+  },
+  {
+    "DISTRICT": "Singrauli",
+    "Population": 1178273,
+    "Area": 5675,
+    "Density": 207.6251982
+  },
+  {
+    "DISTRICT": "Jhabua",
+    "Population": 1025048,
+    "Area": 3600,
+    "Density": 284.7355556
+  },
+  {
+    "DISTRICT": "Alirajpur",
+    "Population": 728999,
+    "Area": 3182,
+    "Density": 229.1008799
+  },
+  {
+    "DISTRICT": "Khandwa (East Nimar)",
+    "Population": 1310061,
+    "Area": 7352,
+    "Density": 178.1911045
+  },
+  {
+    "DISTRICT": "Burhanpur",
+    "Population": 757847,
+    "Area": 3427,
+    "Density": 221.1400642
+  },
+  {
+    "DISTRICT": "Gujarat",
+    "Population": 60439692,
+    "Area": 196244,
+    "Density": 307.9823689
+  },
+  {
+    "DISTRICT": "Kachchh",
+    "Population": 2092371,
+    "Area": 45674,
+    "Density": 45.81098656
+  },
+  {
+    "DISTRICT": "Banas Kantha",
+    "Population": 3120506,
+    "Area": 10743,
+    "Density": 290.4687704
+  },
+  {
+    "DISTRICT": "Patan",
+    "Population": 1343734,
+    "Area": 5792,
+    "Density": 231.9982735
+  },
+  {
+    "DISTRICT": "Mahesana",
+    "Population": 2035064,
+    "Area": 4401,
+    "Density": 462.4094524
+  },
+  {
+    "DISTRICT": "Sabar Kantha",
+    "Population": 2428589,
+    "Area": 7394,
+    "Density": 328.4540168
+  },
+  {
+    "DISTRICT": "Gandhinagar",
+    "Population": 1391753,
+    "Area": 2140,
+    "Density": 650.3518692
+  },
+  {
+    "DISTRICT": "Ahmadabad",
+    "Population": 7214225,
+    "Area": 8107,
+    "Density": 889.8760331
+  },
+  {
+    "DISTRICT": "Surendranagar",
+    "Population": 1756268,
+    "Area": 10423,
+    "Density": 168.4992804
+  },
+  {
+    "DISTRICT": "Rajkot",
+    "Population": 3804558,
+    "Area": 11198,
+    "Density": 339.7533488
+  },
+  {
+    "DISTRICT": "Jamnagar",
+    "Population": 2160119,
+    "Area": 14184,
+    "Density": 152.2926537
+  },
+  {
+    "DISTRICT": "Porbandar",
+    "Population": 585449,
+    "Area": 2316,
+    "Density": 252.7845423
+  },
+  {
+    "DISTRICT": "Junagadh",
+    "Population": 2743082,
+    "Area": 8831,
+    "Density": 310.6196354
+  },
+  {
+    "DISTRICT": "Amreli",
+    "Population": 1514190,
+    "Area": 7397,
+    "Density": 204.7032581
+  },
+  {
+    "DISTRICT": "Bhavnagar",
+    "Population": 2880365,
+    "Area": 10034,
+    "Density": 287.0604943
+  },
+  {
+    "DISTRICT": "Anand",
+    "Population": 2092745,
+    "Area": 3204,
+    "Density": 653.1663546
+  },
+  {
+    "DISTRICT": "Kheda",
+    "Population": 2299885,
+    "Area": 3953.000488,
+    "Density": 581.8074162
+  },
+  {
+    "DISTRICT": "Panch Mahals",
+    "Population": 2390776,
+    "Area": 5231,
+    "Density": 457.0399541
+  },
+  {
+    "DISTRICT": "Dohad",
+    "Population": 2127086,
+    "Area": 3642,
+    "Density": 584.0433828
+  },
+  {
+    "DISTRICT": "Vadodara",
+    "Population": 4165626,
+    "Area": 7546,
+    "Density": 552.0310098
+  },
+  {
+    "DISTRICT": "Narmada",
+    "Population": 590297,
+    "Area": 2817,
+    "Density": 209.5481008
+  },
+  {
+    "DISTRICT": "Bharuch",
+    "Population": 1551019,
+    "Area": 6509,
+    "Density": 238.2883699
+  },
+  {
+    "DISTRICT": "The Dangs",
+    "Population": 228291,
+    "Area": 1765.999997,
+    "Density": 129.2701021
+  },
+  {
+    "DISTRICT": "Navsari",
+    "Population": 1329672,
+    "Area": 2246,
+    "Density": 592.0178094
+  },
+  {
+    "DISTRICT": "Valsad",
+    "Population": 1705678,
+    "Area": 3008,
+    "Density": 567.0472074
+  },
+  {
+    "DISTRICT": "Surat",
+    "Population": 6081322,
+    "Area": 4549,
+    "Density": 1336.848098
+  },
+  {
+    "DISTRICT": "Tapi",
+    "Population": 807022,
+    "Area": 3139,
+    "Density": 257.0952533
+  },
+  {
+    "DISTRICT": "Daman & Diu",
+    "Population": 243247,
+    "Area": 111,
+    "Density": 2191.414414
+  },
+  {
+    "DISTRICT": "Diu",
+    "Population": 52074,
+    "Area": 39,
+    "Density": 1335.230769
+  },
+  {
+    "DISTRICT": "Daman",
+    "Population": 191173,
+    "Area": 72,
+    "Density": 2655.180556
+  },
+  {
+    "DISTRICT": "Dadra & Nagar Haveli",
+    "Population": 343709,
+    "Area": 491,
+    "Density": 700.0183299
+  },
+  {
+    "DISTRICT": "Maharashtra",
+    "Population": 112374333,
+    "Area": 307713,
+    "Density": 700.0183299
+  },
+  {
+    "DISTRICT": "Nandurbar",
+    "Population": 1648295,
+    "Area": 5955,
+    "Density": 365.1920231
+  },
+  {
+    "DISTRICT": "Dhule",
+    "Population": 2050862,
+    "Area": 7195,
+    "Density": 276.7917716
+  },
+  {
+    "DISTRICT": "Jalgaon",
+    "Population": 4229917,
+    "Area": 11765,
+    "Density": 285.0398888
+  },
+  {
+    "DISTRICT": "Buldana",
+    "Population": 2586258,
+    "Area": 9661,
+    "Density": 359.5339567
+  },
+  {
+    "DISTRICT": "Akola",
+    "Population": 1813906,
+    "Area": 5672.81,
+    "Density": 267.7008591
+  },
+  {
+    "DISTRICT": "Washim",
+    "Population": 1197160,
+    "Area": 4901.19,
+    "Density": 319.7544074
+  },
+  {
+    "DISTRICT": "Amravati",
+    "Population": 2888445,
+    "Area": 12210,
+    "Density": 244.2590473
+  },
+  {
+    "DISTRICT": "Wardha",
+    "Population": 1300774,
+    "Area": 6309,
+    "Density": 236.5638821
+  },
+  {
+    "DISTRICT": "Nagpur",
+    "Population": 4653570,
+    "Area": 9892,
+    "Density": 206.1775242
+  },
+  {
+    "DISTRICT": "Bhandara",
+    "Population": 1200334,
+    "Area": 4087,
+    "Density": 470.4377275
+  },
+  {
+    "DISTRICT": "Gondiya",
+    "Population": 1322507,
+    "Area": 5234,
+    "Density": 293.6956203
+  },
+  {
+    "DISTRICT": "Gadchiroli",
+    "Population": 1072942,
+    "Area": 14412,
+    "Density": 252.6761559
+  },
+  {
+    "DISTRICT": "Chandrapur",
+    "Population": 2204307,
+    "Area": 11443,
+    "Density": 74.44782126
+  },
+  {
+    "DISTRICT": "Yavatmal",
+    "Population": 2772348,
+    "Area": 13582,
+    "Density": 192.6336625
+  },
+  {
+    "DISTRICT": "Nanded",
+    "Population": 3361292,
+    "Area": 10528,
+    "Density": 204.1192755
+  },
+  {
+    "DISTRICT": "Hingoli",
+    "Population": 1177345,
+    "Area": 4827,
+    "Density": 319.2716565
+  },
+  {
+    "DISTRICT": "Parbhani",
+    "Population": 1836086,
+    "Area": 6214,
+    "Density": 243.9082246
+  },
+  {
+    "DISTRICT": "Jalna ###",
+    "Population": 1959046,
+    "Area": 7694.11,
+    "Density": 295.4757
+  },
+  {
+    "DISTRICT": "Aurangabad ###",
+    "Population": 3701282,
+    "Area": 10130.89,
+    "Density": 254.8388985
+  },
+  {
+    "DISTRICT": "Nashik",
+    "Population": 6107187,
+    "Area": 15530,
+    "Density": 365.1040038
+  },
+  {
+    "DISTRICT": "Thane",
+    "Population": 11060148,
+    "Area": 9558,
+    "Density": 393.2509337
+  },
+  {
+    "DISTRICT": "Mumbai Suburban",
+    "Population": 9356962,
+    "Area": 446,
+    "Density": 1157.161331
+  },
+  {
+    "DISTRICT": "Mumbai",
+    "Population": 3085411,
+    "Area": 157,
+    "Density": 20979.73543
+  },
+  {
+    "DISTRICT": "Raigarh",
+    "Population": 2634200,
+    "Area": 7152,
+    "Density": 19652.29936
+  },
+  {
+    "DISTRICT": "Pune",
+    "Population": 9429408,
+    "Area": 15643,
+    "Density": 368.3165548
+  },
+  {
+    "DISTRICT": "Ahmadnagar",
+    "Population": 4543159,
+    "Area": 17048,
+    "Density": 602.7877006
+  },
+  {
+    "DISTRICT": "Bid",
+    "Population": 2585049,
+    "Area": 10693,
+    "Density": 266.4921985
+  },
+  {
+    "DISTRICT": "Latur",
+    "Population": 2454196,
+    "Area": 7157,
+    "Density": 241.7515197
+  },
+  {
+    "DISTRICT": "Osmanabad",
+    "Population": 1657576,
+    "Area": 7569,
+    "Density": 342.9084812
+  },
+  {
+    "DISTRICT": "Solapur",
+    "Population": 4317756,
+    "Area": 14895,
+    "Density": 218.9953759
+  },
+  {
+    "DISTRICT": "Satara",
+    "Population": 3003741,
+    "Area": 10480,
+    "Density": 289.8795569
+  },
+  {
+    "DISTRICT": "Ratnagiri",
+    "Population": 1615069,
+    "Area": 8208,
+    "Density": 286.6165076
+  },
+  {
+    "DISTRICT": "Sindhudurg",
+    "Population": 849651,
+    "Area": 5207,
+    "Density": 196.7676657
+  },
+  {
+    "DISTRICT": "Kolhapur",
+    "Population": 3876001,
+    "Area": 7685,
+    "Density": 163.1747647
+  },
+  {
+    "DISTRICT": "Sangli",
+    "Population": 2822143,
+    "Area": 8572,
+    "Density": 504.3592713
+  },
+  {
+    "DISTRICT": "Andhra Pradesh",
+    "Population": 84580777,
+    "Area": 275045,
+    "Density": 329.2280681
+  },
+  {
+    "DISTRICT": "Adilabad",
+    "Population": 2741239,
+    "Area": 16105,
+    "Density": 307.516141
+  },
+  {
+    "DISTRICT": "Nizamabad",
+    "Population": 2551335,
+    "Area": 7956,
+    "Density": 170.2104315
+  },
+  {
+    "DISTRICT": "Karimnagar",
+    "Population": 3776269,
+    "Area": 11823,
+    "Density": 320.6806184
+  },
+  {
+    "DISTRICT": "Medak",
+    "Population": 3033288,
+    "Area": 9699,
+    "Density": 319.4002368
+  },
+  {
+    "DISTRICT": "Hyderabad",
+    "Population": 3943323,
+    "Area": 216.9995611,
+    "Density": 312.7423446
+  },
+  {
+    "DISTRICT": "Rangareddy",
+    "Population": 5296741,
+    "Area": 7492.999954,
+    "Density": 18172.03215
+  },
+  {
+    "DISTRICT": "Mahbubnagar",
+    "Population": 4053028,
+    "Area": 18432,
+    "Density": 706.8919035
+  },
+  {
+    "DISTRICT": "Nalgonda",
+    "Population": 3488809,
+    "Area": 14240,
+    "Density": 219.890842
+  },
+  {
+    "DISTRICT": "Warangal",
+    "Population": 3512576,
+    "Area": 12846,
+    "Density": 245.000632
+  },
+  {
+    "DISTRICT": "Khammam",
+    "Population": 2797370,
+    "Area": 16029,
+    "Density": 273.4373346
+  },
+  {
+    "DISTRICT": "Srikakulam",
+    "Population": 2703114,
+    "Area": 5837,
+    "Density": 174.5193088
+  },
+  {
+    "DISTRICT": "Vizianagaram",
+    "Population": 2344474,
+    "Area": 6539,
+    "Density": 463.0998801
+  },
+  {
+    "DISTRICT": "Visakhapatnam",
+    "Population": 4290589,
+    "Area": 11161,
+    "Density": 358.5370852
+  },
+  {
+    "DISTRICT": "East Godavari",
+    "Population": 5154296,
+    "Area": 10807,
+    "Density": 384.4269331
+  },
+  {
+    "DISTRICT": "West Godavari",
+    "Population": 3936966,
+    "Area": 7742,
+    "Density": 476.9405015
+  },
+  {
+    "DISTRICT": "Krishna",
+    "Population": 4517398,
+    "Area": 8727,
+    "Density": 508.5205373
+  },
+  {
+    "DISTRICT": "Guntur",
+    "Population": 4887813,
+    "Area": 11391,
+    "Density": 517.6346969
+  },
+  {
+    "DISTRICT": "Prakasam",
+    "Population": 3397448,
+    "Area": 17626,
+    "Density": 429.094285
+  },
+  {
+    "DISTRICT": "Sri Potti Sriramulu Nellore",
+    "Population": 2963557,
+    "Area": 13076,
+    "Density": 192.7520708
+  },
+  {
+    "DISTRICT": "Y.S.R.",
+    "Population": 2882469,
+    "Area": 15359,
+    "Density": 226.6409452
+  },
+  {
+    "DISTRICT": "Kurnool",
+    "Population": 4053463,
+    "Area": 17658,
+    "Density": 187.6729605
+  },
+  {
+    "DISTRICT": "Anantapur",
+    "Population": 4081148,
+    "Area": 19130,
+    "Density": 229.5539132
+  },
+  {
+    "DISTRICT": "Chittoor",
+    "Population": 4174064,
+    "Area": 15152.00015,
+    "Density": 213.3375849
+  },
+  {
+    "DISTRICT": "Karnataka",
+    "Population": 61095297,
+    "Area": 191791,
+    "Density": 275.4794059
+  },
+  {
+    "DISTRICT": "Belgaum",
+    "Population": 4779661,
+    "Area": 13433,
+    "Density": 319
+  },
+  {
+    "DISTRICT": "Bagalkot",
+    "Population": 1889752,
+    "Area": 6552,
+    "Density": 356
+  },
+  {
+    "DISTRICT": "Bijapur",
+    "Population": 2177331,
+    "Area": 10498,
+    "Density": 288
+  },
+  {
+    "DISTRICT": "Bidar",
+    "Population": 1703300,
+    "Area": 5448,
+    "Density": 207
+  },
+  {
+    "DISTRICT": "Raichur",
+    "Population": 1928812,
+    "Area": 8442,
+    "Density": 313
+  },
+  {
+    "DISTRICT": "Koppal",
+    "Population": 1389920,
+    "Area": 5570,
+    "Density": 228
+  },
+  {
+    "DISTRICT": "Gadag",
+    "Population": 1064570,
+    "Area": 4657,
+    "Density": 250
+  },
+  {
+    "DISTRICT": "Dharwad",
+    "Population": 1847023,
+    "Area": 4260,
+    "Density": 229
+  },
+  {
+    "DISTRICT": "Uttara Kannada",
+    "Population": 1437169,
+    "Area": 10277,
+    "Density": 434
+  },
+  {
+    "DISTRICT": "Haveri",
+    "Population": 1597668,
+    "Area": 4823,
+    "Density": 140
+  },
+  {
+    "DISTRICT": "Bellary",
+    "Population": 2452595,
+    "Area": 8461,
+    "Density": 331
+  },
+  {
+    "DISTRICT": "Chitradurga",
+    "Population": 1659456,
+    "Area": 8436,
+    "Density": 290
+  },
+  {
+    "DISTRICT": "Davanagere",
+    "Population": 1945497,
+    "Area": 5924,
+    "Density": 197
+  },
+  {
+    "DISTRICT": "Shimoga",
+    "Population": 1752753,
+    "Area": 8478,
+    "Density": 328
+  },
+  {
+    "DISTRICT": "Udupi",
+    "Population": 1177361,
+    "Area": 3582,
+    "Density": 207
+  },
+  {
+    "DISTRICT": "Chikmagalur",
+    "Population": 1137961,
+    "Area": 7202,
+    "Density": 329
+  },
+  {
+    "DISTRICT": "Tumkur",
+    "Population": 2678980,
+    "Area": 10597,
+    "Density": 158
+  },
+  {
+    "DISTRICT": "Bangalore",
+    "Population": 9621551,
+    "Area": 2196,
+    "Density": 253
+  },
+  {
+    "DISTRICT": "Mandya",
+    "Population": 1805769,
+    "Area": 4962,
+    "Density": 4381
+  },
+  {
+    "DISTRICT": "Hassan",
+    "Population": 1776421,
+    "Area": 6814,
+    "Density": 364
+  },
+  {
+    "DISTRICT": "Dakshina Kannada",
+    "Population": 2089649,
+    "Area": 4861,
+    "Density": 261
+  },
+  {
+    "DISTRICT": "Kodagu",
+    "Population": 554519,
+    "Area": 4102,
+    "Density": 430
+  },
+  {
+    "DISTRICT": "Mysore",
+    "Population": 3001127,
+    "Area": 6307,
+    "Density": 135
+  },
+  {
+    "DISTRICT": "Chamarajanagar",
+    "Population": 1020791,
+    "Area": 5648,
+    "Density": 476
+  },
+  {
+    "DISTRICT": "Gulbarga",
+    "Population": 2566326,
+    "Area": 10954,
+    "Density": 181
+  },
+  {
+    "DISTRICT": "Yadgir",
+    "Population": 1174271,
+    "Area": 5270,
+    "Density": 234
+  },
+  {
+    "DISTRICT": "Kolar",
+    "Population": 1536401,
+    "Area": 3979,
+    "Density": 223
+  },
+  {
+    "DISTRICT": "Chikkaballapura",
+    "Population": 1255104,
+    "Area": 4244,
+    "Density": 386
+  },
+  {
+    "DISTRICT": "Bangalore Rural",
+    "Population": 990923,
+    "Area": 2298,
+    "Density": 296
+  },
+  {
+    "DISTRICT": "Ramanagara",
+    "Population": 1082636,
+    "Area": 3516,
+    "Density": 431
+  },
+  {
+    "DISTRICT": "Goa",
+    "Population": 1458545,
+    "Area": 3702,
+    "Density": 308
+  },
+  {
+    "DISTRICT": "North Goa",
+    "Population": 818008,
+    "Area": 1736,
+    "Density": 394
+  },
+  {
+    "DISTRICT": "South Goa",
+    "Population": 640537,
+    "Area": 1966,
+    "Density": 471
+  },
+  {
+    "DISTRICT": "Lakshadweep",
+    "Population": 64473,
+    "Area": 30,
+    "Density": 326
+  },
+  {
+    "DISTRICT": "Kerala",
+    "Population": 33406061,
+    "Area": 38852,
+    "Density": 2149
+  },
+  {
+    "DISTRICT": "Kasaragod",
+    "Population": 1307375,
+    "Area": 1989,
+    "Density": 2149
+  },
+  {
+    "DISTRICT": "Kannur",
+    "Population": 2523003,
+    "Area": 2961,
+    "Density": 860
+  },
+  {
+    "DISTRICT": "Wayanad",
+    "Population": 817420,
+    "Area": 2130,
+    "Density": 657
+  },
+  {
+    "DISTRICT": "Kozhikode",
+    "Population": 3086293,
+    "Area": 2345,
+    "Density": 852
+  },
+  {
+    "DISTRICT": "Malappuram",
+    "Population": 4112920,
+    "Area": 3554,
+    "Density": 384
+  },
+  {
+    "DISTRICT": "Palakkad",
+    "Population": 2809934,
+    "Area": 4482,
+    "Density": 1316
+  },
+  {
+    "DISTRICT": "Thrissur",
+    "Population": 3121200,
+    "Area": 3027,
+    "Density": 1157
+  },
+  {
+    "DISTRICT": "Ernakulam",
+    "Population": 3282388,
+    "Area": 3063,
+    "Density": 627
+  },
+  {
+    "DISTRICT": "Idukki",
+    "Population": 1108974,
+    "Area": 4356,
+    "Density": 1031
+  },
+  {
+    "DISTRICT": "Kottayam",
+    "Population": 1974551,
+    "Area": 2206,
+    "Density": 1072
+  },
+  {
+    "DISTRICT": "Alappuzha",
+    "Population": 2127789,
+    "Area": 1415,
+    "Density": 255
+  },
+  {
+    "DISTRICT": "Pathanamthitta",
+    "Population": 1197412,
+    "Area": 2652,
+    "Density": 895
+  },
+  {
+    "DISTRICT": "Kollam",
+    "Population": 2635375,
+    "Area": 2483,
+    "Density": 1504
+  },
+  {
+    "DISTRICT": "Thiruvananthapuram",
+    "Population": 3301427,
+    "Area": 2189,
+    "Density": 452
+  },
+  {
+    "DISTRICT": "Tamil Nadu",
+    "Population": 72147030,
+    "Area": 130060,
+    "Density": 1061
+  },
+  {
+    "DISTRICT": "Thiruvallur",
+    "Population": 3728104,
+    "Area": 3394,
+    "Density": 1508
+  },
+  {
+    "DISTRICT": "Chennai",
+    "Population": 4646732,
+    "Area": 175,
+    "Density": 555
+  },
+  {
+    "DISTRICT": "Kancheepuram",
+    "Population": 3998252,
+    "Area": 4483,
+    "Density": 1098
+  },
+  {
+    "DISTRICT": "Vellore",
+    "Population": 3936331,
+    "Area": 6075,
+    "Density": 26553
+  },
+  {
+    "DISTRICT": "Tiruvannamalai",
+    "Population": 2464875,
+    "Area": 6188.00019,
+    "Density": 892
+  },
+  {
+    "DISTRICT": "Viluppuram",
+    "Population": 3458873,
+    "Area": 7194,
+    "Density": 648
+  },
+  {
+    "DISTRICT": "Salem",
+    "Population": 3482056,
+    "Area": 5236.999113,
+    "Density": 398
+  },
+  {
+    "DISTRICT": "Namakkal",
+    "Population": 1726601,
+    "Area": 3419.998818,
+    "Density": 481
+  },
+  {
+    "DISTRICT": "Erode",
+    "Population": 2251744,
+    "Area": 5759.997004,
+    "Density": 665
+  },
+  {
+    "DISTRICT": "The Nilgiris",
+    "Population": 735394,
+    "Area": 2564.997344,
+    "Density": 505
+  },
+  {
+    "DISTRICT": "Dindigul",
+    "Population": 2159775,
+    "Area": 6036,
+    "Density": 391
+  },
+  {
+    "DISTRICT": "Karur",
+    "Population": 1064493,
+    "Area": 2904,
+    "Density": 287
+  },
+  {
+    "DISTRICT": "Tiruchirappalli",
+    "Population": 2722290,
+    "Area": 4509,
+    "Density": 358
+  },
+  {
+    "DISTRICT": "Perambalur",
+    "Population": 565223,
+    "Area": 1756,
+    "Density": 367
+  },
+  {
+    "DISTRICT": "Ariyalur",
+    "Population": 754894,
+    "Area": 1940.002092,
+    "Density": 604
+  },
+  {
+    "DISTRICT": "Cuddalore",
+    "Population": 2605914,
+    "Area": 3702.999974,
+    "Density": 322
+  },
+  {
+    "DISTRICT": "Nagapattinam",
+    "Population": 1616450,
+    "Area": 2568.997363,
+    "Density": 389
+  },
+  {
+    "DISTRICT": "Thiruvarur",
+    "Population": 1264277,
+    "Area": 2274.004268,
+    "Density": 704
+  },
+  {
+    "DISTRICT": "Thanjavur",
+    "Population": 2405890,
+    "Area": 3410.999592,
+    "Density": 629
+  },
+  {
+    "DISTRICT": "Pudukkottai",
+    "Population": 1618345,
+    "Area": 4644,
+    "Density": 556
+  },
+  {
+    "DISTRICT": "Sivaganga",
+    "Population": 1339101,
+    "Area": 4233,
+    "Density": 705
+  },
+  {
+    "DISTRICT": "Madurai",
+    "Population": 3038252,
+    "Area": 3710.001452,
+    "Density": 348
+  },
+  {
+    "DISTRICT": "Theni",
+    "Population": 1245899,
+    "Area": 2868.000163,
+    "Density": 316
+  },
+  {
+    "DISTRICT": "Virudhunagar",
+    "Population": 1942288,
+    "Area": 4240.998101,
+    "Density": 819
+  },
+  {
+    "DISTRICT": "Ramanathapuram",
+    "Population": 1353445,
+    "Area": 4103.999538,
+    "Density": 434
+  },
+  {
+    "DISTRICT": "Thoothukkudi",
+    "Population": 1750176,
+    "Area": 4745,
+    "Density": 458
+  },
+  {
+    "DISTRICT": "Tirunelveli",
+    "Population": 3077233,
+    "Area": 6693,
+    "Density": 330
+  },
+  {
+    "DISTRICT": "Kanniyakumari",
+    "Population": 1870374,
+    "Area": 1683.998875,
+    "Density": 369
+  },
+  {
+    "DISTRICT": "Dharmapuri",
+    "Population": 1506843,
+    "Area": 4497,
+    "Density": 460
+  },
+  {
+    "DISTRICT": "Krishnagiri",
+    "Population": 1879809,
+    "Area": 5129,
+    "Density": 1111
+  },
+  {
+    "DISTRICT": "Coimbatore",
+    "Population": 3458045,
+    "Area": 4731.997041,
+    "Density": 335
+  },
+  {
+    "DISTRICT": "Tiruppur",
+    "Population": 2479052,
+    "Area": 5187,
+    "Density": 367
+  },
+  {
+    "DISTRICT": "Yanam",
+    "Population": 55626,
+    "Area": 30,
+    "Density": 731
+  },
+  {
+    "DISTRICT": "Puducherry",
+    "Population": 950289,
+    "Area": 294,
+    "Density": 478
+  },
+  {
+    "DISTRICT": "Mahe",
+    "Population": 41816,
+    "Area": 9,
+    "Density": 2547
+  },
+  {
+    "DISTRICT": "Karaikal",
+    "Population": 200222,
+    "Area": 157,
+    "Density": 1854
+  },
+  {
+    "DISTRICT": "Andaman & Nicobar Islands",
+    "Population": 380581,
+    "Area": 8249,
+    "Density": 3232
+  },
+  {
+    "DISTRICT": "Nicobars",
+    "Population": 36842,
+    "Area": 1841,
+    "Density": 4646
+  },
+  {
+    "DISTRICT": "North  & Middle Andaman",
+    "Population": 105597,
+    "Area": 3736,
+    "Density": 1275
+  },
+  {
+    "DISTRICT": "South Andaman",
+    "Population": 238142,
+    "Area": 2672,
+    "Density": 46
+  },
+  {
+    "DISTRICT": "",
+    "Population": "",
+    "Area": "",
+    "Density": 20
+  },
+  {
+    "DISTRICT": "",
+    "Population": "",
+    "Area": "",
+    "Density": 28
+  },
+  {
+    "DISTRICT": "",
+    "Population": "",
+    "Area": "",
+    "Density": 89
+  }
+]
