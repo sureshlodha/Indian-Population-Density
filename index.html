@@ -147,7 +147,7 @@
         var color;
         
         Promise.all([
-            d3.json("2011_Dist.json"),
+            d3.json("./2011/2011_Dist.json"),
             d3.json("reduce-state.json")
         ]).then(_topology => {
             topology = _topology[0];
