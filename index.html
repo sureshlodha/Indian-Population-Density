@@ -148,7 +148,7 @@
         
         Promise.all([
             d3.json("./2011/2011_Dist.json"),
-            d3.json("reduce-state.json")
+            d3.json("./2011/reduce-state.json")
         ]).then(_topology => {
             topology = _topology[0];
             states = _topology[1];
@@ -207,7 +207,7 @@
                 .remove();
             //Creating arrow for map key
             key.append("svg:image")
-            .attr("xlink:href", "arrow.png")
+            .attr("xlink:href", "./2011/arrow.png")
             .attr("width", 20)
             .attr("height", 15)
             .attr("transform", "rotate(180)")
